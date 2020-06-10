@@ -43,7 +43,7 @@ The following types of delays might be associated with push messages for Mobile 
   Your API key might be invalid for the following reasons: 
   
   * The API key that you provided is not a server key with the correct GCM API key value.
-  * The server key has whitelisted the IPs and is blocking Adobe's servers from sending a push message. 
+  * The server key has allowed the IPs and is blocking Adobe's servers from sending a push message. 
   
 * **Determine the validity of the API key**
   
@@ -93,10 +93,10 @@ The following customer has two iOS apps:
   * RSID: PhotoShop_iOS_app_LA 
   * VRSID Definition Segment: `a.os contains “iOS”`
 
-In this example, if a Photoshop employee sends a push to the *PhotoShop_iOS_app_SF* app, all *PhotoShop_iOS_app_SF app* users receive the push message as expected. But, if the employee sends a message to the *PhotoShop_iOS_app_LA* app, because its VRSID Definition Segment is incorrect (`iOS` instead of `a.os contains "PhotoShop_iOS_app_LA"`), the message is sent to **all** iOS users in *AllAdobe PhotoShop_apps*. Although the message still goes to *PhotoShop_iOS_app_LA* users, the message also blacklists the push IDs for *PhotoShop_iOS_app_SF* users because the *PhotoShop_iOS_app_SF* app has a different certificate. If the segment had been defined as `a.os contains “PhotoShop_iOS_app_LA”`, the push message would have been sent to only *PhotoShop_iOS_app_LA* users. 
+In this example, if a Photoshop employee sends a push to the *PhotoShop_iOS_app_SF* app, all *PhotoShop_iOS_app_SF app* users receive the push message as expected. But, if the employee sends a message to the *PhotoShop_iOS_app_LA* app, because its VRSID Definition Segment is incorrect (`iOS` instead of `a.os contains "PhotoShop_iOS_app_LA"`), the message is sent to **all** iOS users in *AllAdobe PhotoShop_apps*. Although the message still goes to *PhotoShop_iOS_app_LA* users, the message also deny-lists the push IDs for *PhotoShop_iOS_app_SF* users because the *PhotoShop_iOS_app_SF* app has a different certificate. If the segment had been defined as `a.os contains “PhotoShop_iOS_app_LA”`, the push message would have been sent to only *PhotoShop_iOS_app_LA* users. 
   
 If passed with the *PhotoShop_IOS_app_LA* push certificate, the push identifiers for the *PhotoShop_iOS_app_SF* come back as `invalid`.
   
 >[!CAUTION]
 >
->After you create a push message for an app that is using a VRS and click **[!UICONTROL Save & Send]**, an alert appears that reminds you ensure that each app that is listed **must** have a valid certificate. If each app does **not** have a valid certificate, your audience segments might be indefinitely blacklisted, and you might not be able to send future push messages to the affected users. For more information about audience segments, see [Audience: define and configure audience options for push messages](/help/using/in-app-messaging/t-create-push-message/c-audience-push-message.md). 
+>After you create a push message for an app that is using a VRS and click **[!UICONTROL Save & Send]**, an alert appears that reminds you ensure that each app that is listed **must** have a valid certificate. If each app does **not** have a valid certificate, your audience segments might be indefinitely deny listed, and you might not be able to send future push messages to the affected users. For more information about audience segments, see [Audience: define and configure audience options for push messages](/help/using/in-app-messaging/t-create-push-message/c-audience-push-message.md). 

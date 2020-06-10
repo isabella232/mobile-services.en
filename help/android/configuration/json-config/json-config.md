@@ -83,9 +83,9 @@ Here is a list of the variables in the JSON file and the minimum SDK version you
   * Default value is `false`. 
   * This setting is used **only** for Device Co-op provisioned customers.  
 
-  For Device Co-op members who require this value set to `true`, you need to work with the Co-op team to request a blacklist flag on your Device Co-op account. There is no self-service path to enabling these flags. 
+  For Device Co-op members who require this value set to `true`, you need to work with the Co-op team to request a deny list flag on your Device Co-op account. There is no self-service path to enabling these flags. 
 
-  Remember the following information: 
+  Remember the following information:
 
   * When `coopUnsafe` is set to `true`, `coop_unsafe=1` will always be appended to Audience Manager and Visitor ID hits.
   * If you enable Analytics server-side forwarding to Audience Manager, you will also see `coop_unsafe=1` Analytics hits. 

@@ -37,7 +37,7 @@ Here is some additional information on the `coopUnsafe` flag:
 * Default value is `false`.  
 * This setting is used **only** for Device Co-op provisioned customers.  
   
-For Device Co-op members who require this value be set to `true`, you need to work with the Co-op team to request a blacklist flag on your Device Co-op account. There is no self-service path to enabling these flags. 
+For Device Co-op members who require this value be set to `true`, you need to work with the Co-op team to request a deny list flag on your Device Co-op account. There is no self-service path to enabling these flags. 
   
 Remember the following information: 
   

@@ -85,4 +85,4 @@ Here is a list of the metrics that are available for push messages:
 
 * **[!UICONTROL Blacklisted]**
 
-  The number of device tokens that are no longer valid to be sent to APNS or FCM. This usually means the app has been uninstalled from the device or the user changed his or her opt-in settings to receive messages. Android and iOS differ about when tokens are counted as blacklisted. Android tokens are immediately shown in the blacklisted count. iOS tokens are initially displayed as published, but based on feedback from APNS, are shown as blacklisted on subsequent messages.
+  The number of device tokens that are no longer valid to be sent to APNS or FCM. This usually means the app has been uninstalled from the device or the user changed his or her opt-in settings to receive messages. Android and iOS differ about when tokens are counted as deny listed. Android tokens are immediately shown in the deny list count. iOS tokens are initially displayed as published, but based on feedback from APNS, are shown as deny listed on subsequent messages.
