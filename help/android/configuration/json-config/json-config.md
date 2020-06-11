@@ -83,7 +83,7 @@ Here is a list of the variables in the JSON file and the minimum SDK version you
   * Default value is `false`. 
   * This setting is used **only** for Device Co-op provisioned customers.  
 
-  For Device Co-op members who require this value set to `true`, you need to work with the Co-op team to request a deny list flag on your Device Co-op account. There is no self-service path to enabling these flags. 
+  For Device Co-op members who require this value set to `true`, you need to work with the Co-op team to request a blocklist flag on your Device Co-op account. There is no self-service path to enabling these flags. 
 
   Remember the following information:
 

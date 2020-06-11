@@ -17,13 +17,13 @@ You can define and configure audience options for push messages, including date 
 
 When an audience segment for push messaging is created, the segment might involve users from one or more apps because report suites or virtual report suites might contain data from one or more apps. For more information about virtual report suites, see [Virtual report suites](/help/using/manage-apps/c-mob-vrs.md).
 
-In Adobe Mobile Services, marketers might only push to one app per platform. If marketers attempt to push to segments that contain users from multiple apps, a warning is displayed that states that proceeding can result in serious push failures and the potential deny listing of users. If you experience a push failure, see *Resolving push failures* in [Troubleshooting push messaging](/help/using/in-app-messaging/t-create-push-message/c-schedule-push-message.md).
+In Adobe Mobile Services, marketers might only push to one app per platform. If marketers attempt to push to segments that contain users from multiple apps, a warning is displayed that states that proceeding can result in serious push failures and the potential blocklisting of users. If you experience a push failure, see *Resolving push failures* in [Troubleshooting push messaging](/help/using/in-app-messaging/t-create-push-message/c-schedule-push-message.md).
 
 To use Audience Manager data in your segment definition, see [Audience Analytics](https://docs-author-stg.corp.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html). 
 
 >[!IMPORTANT]
 >
->If app users are deny listed, marketers can **never** send push messages to those affected users again.
+>If app users are blocklisted, marketers can **never** send push messages to those affected users again.
 
 If you select an audience segment that contains users across multiple apps, you might see the following alert:
 
@@ -60,7 +60,7 @@ Here are some examples to help you understand how to correctly define segments:
 
 **Do**: The Marketer provides push certificates for the iOS and Android versions of one app, for example, for Adobe Photoshop. The Marketer might send a push notification to a user segment that spans across both platforms.
 
-**Do not**: Marketers provide push certificates for iOS and Android versions of one app, for example, for Adobe Photoshop. If the marketer creates and pushes to a segment of *all active users in the last 30 days*, only the users of the Adobe Photoshop iOS and Android app receive the push, and all of the Adobe Illustrator iOS and Android app users will be deny listed. For more detailed, example see *Resolving push message failures* in [Troubleshooting Push Messaging](/help/using/in-app-messaging/t-create-push-message/c-troubleshooting-push-messaging.md).
+**Do not**: Marketers provide push certificates for iOS and Android versions of one app, for example, for Adobe Photoshop. If the marketer creates and pushes to a segment of *all active users in the last 30 days*, only the users of the Adobe Photoshop iOS and Android app receive the push, and all of the Adobe Illustrator iOS and Android app users will be blocklisted. For more detailed, example see *Resolving push message failures* in [Troubleshooting Push Messaging](/help/using/in-app-messaging/t-create-push-message/c-troubleshooting-push-messaging.md).
 
 ## Configure audience segments {#section_A92C60885A30421B8150820EC1CCBF13}
 
