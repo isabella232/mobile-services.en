@@ -83,6 +83,6 @@ Here is a list of the metrics that are available for push messages:
   >
   >If you have an unusually large number of failures, check your push services configuration. If push services appears to be configured correctly, contact Adobe Customer Care.
 
-* **[!UICONTROL Deny List]**
+* **[!UICONTROL Blocklisted]**
 
-  The number of device tokens that are no longer valid to be sent to APNS or FCM. This usually means the app has been uninstalled from the device or the user changed his or her opt-in settings to receive messages. Android and iOS differ about when tokens are counted as blocklisted. Android tokens are immediately shown in the deny list (blocklist) count. iOS tokens are initially displayed as published, but based on feedback from APNS, are shown as blocklisted on subsequent messages.
+  The number of device tokens that are no longer valid to be sent to APNS or FCM. This usually means the app has been uninstalled from the device or the user changed his or her opt-in settings to receive messages. Android and iOS differ about when tokens are counted as blocklisted. Android tokens are immediately shown in the blocklist count. iOS tokens are initially displayed as published, but based on feedback from APNS, are shown as blocklisted on subsequent messages.
