@@ -12,7 +12,7 @@ uuid: 3ab98c14-ccdf-4060-ad88-ec07c1c6bf07
 
 This information helps you understand how crashes are tracked and the best practices to handle false crashes.
 
->[!TIP] 
+>[!TIP]
 >
 >App crashes are tracked as part of lifecycle metrics. Before you can track crashes, add the library to your project and implement lifecycle. For more information, see *Add the SDK and Config File to your IntelliJ IDEA or Eclipse Project* in [Core implementation and lifecycle](/help/android/getting-started/dev-qs.md).
 
