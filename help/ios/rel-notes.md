@@ -12,6 +12,10 @@ uuid: e1613dc5-02a4-43a7-997a-29b4de98b4d1
 
 Here is the release notes, known issues, and hot fix information for iOS SDKs 4.x for Experience Cloud Solutions:
 
+**July 16, 2020: Version 4.19.3**
+
+* General – Fixed a bug that prevented deeplink URLs with multiple equals sign in query param from being properly handled.
+
 **March 24, 2020: Version 4.19.2**
 
 * General - Fixed some leaks in Target code.
