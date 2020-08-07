@@ -52,7 +52,7 @@ Before you can configure your app, you must add it in the Adobe Mobile Services 
  
         Revenue is tracked and reported as this type of currency.
 
-      >[!TIP] 
+      >[!TIP]
       >
       >To use a virtual reporting suite (VRS), see [Virtual Report Suites](/help/using/manage-apps/c-mob-vrs.md).  
 

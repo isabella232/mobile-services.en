@@ -35,7 +35,7 @@ If audience manager is configured in your JSON file, a signal containing lifecyc
     ```js
     var ADB = ADBMobile; 
     var profile = ADB.AudienceManager.getVisitorProfile();
-     ```
+    ```
 
 * **GetDpid (winJS: getDpid)**
 

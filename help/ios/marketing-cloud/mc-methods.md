@@ -35,7 +35,7 @@ Methods are prefixed according to the solution, and Experience Cloud ID methods 
      NSURL *url = [NSURL URLWithString:@"https://www.example.com"];  
      NSURL *decoratedURL = [ADBMobile visitorAppendToURL: url];  
      [[UIApplication sharedApplication] openURL: decoratedURL];  
-     ```
+    ```
 
 * **visitorMarketingCloudID**
 
@@ -122,7 +122,7 @@ Methods are prefixed according to the solution, and Experience Cloud ID methods 
 
   * Here is the syntax for this method:
 
-     ```objective-c
+    ```objective-c
     +  (nullable NSArray *) visitorGetIDs;
     ```
 

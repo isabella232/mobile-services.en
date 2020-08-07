@@ -81,7 +81,7 @@ static property Platform::String ^TARGET_PARAMETER_MBOX_HOST {
      ADB.Target.loadRequest(heroBannerRequest).then(function(content){ 
         //do something with content returned from target server 
      });
-     ```
+    ```
 
 * **CreateRequest (winJS: createRequest)**
 
@@ -163,5 +163,4 @@ static property Platform::String ^TARGET_PARAMETER_MBOX_HOST {
 
     ```js
      autosessionId=ADBMobile.Target.getSessionId(); 
-     ```
-
+    ```

@@ -147,7 +147,7 @@ Each of the following methods is used to send data to your Adobe Analytics repor
     HashMap cdata = new HashMap<String Object> ();
     cdata.put("quantity",3);
     Analytics.trackTimedActionUpdate("cartToCheckout", cdata);
-     ```
+    ```
 
 * **trackTimed​ActionEnd**
 

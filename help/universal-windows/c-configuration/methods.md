@@ -217,7 +217,7 @@ Classes and methods provided by the Universal Windows Platform library.
 
     ```csharp
     static void PauseCollectingLifecycleData();
-     ```
+    ```
 
   * Here is the code sample for this method:
 

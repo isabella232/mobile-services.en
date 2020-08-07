@@ -34,7 +34,7 @@ Classes and methods provided by the BlackBerry library.
 
     ```cpp
     ADBMobilePrivacyStatus privacyStatus = ADBMobile::getPrivacyStatus();
-     ```
+    ```
 
 * **setPrivacyStatus**
 
@@ -102,7 +102,7 @@ Classes and methods provided by the BlackBerry library.
 
     ```cpp
      bool debugging = ADBMobile::getDebugLogging(); 
-     ```
+    ```
 
 * **setDebugLogging**
 
@@ -118,7 +118,7 @@ Classes and methods provided by the BlackBerry library.
 
     ```cpp
       ADBMobile::setDebugLogging(true); 
-      ```
+    ```
 
 * **collectLifecycleData**
 
@@ -161,7 +161,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
 
     ```cpp
        ADBMobile::trackState("loginScreen", null);
-       ```
+    ```
 
 * **trackAction**
 
@@ -177,7 +177,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
 
     ```cpp
       ADBMobile::trackAction("heroBannerTouched", null); 
-      ```
+    ```
 
 * **trackLocation**
 
@@ -193,7 +193,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
 
     ```cpp
       ADBMobile::trackLocation(event, null);
-      ```
+    ```
 
 ## `ADBMobileConfig.json` config file reference {#section_5AD4EDF87E304980B4AC4A5657FDA8B9}
 

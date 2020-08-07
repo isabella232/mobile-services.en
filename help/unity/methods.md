@@ -293,7 +293,7 @@ uuid: af504934-febd-45d9-81e2-2a310f4c65dc
 
     ```java
     ADBMobile.TrackAction("level gained", null);
-     ```
+    ```
 
 * **TrackActionFromBackground (iOS only)**
 
@@ -445,7 +445,7 @@ uuid: af504934-febd-45d9-81e2-2a310f4c65dc
 
     ```java
      var level2InProgress = ADBMobile.TrackingTimedActionExists("level2");
-     ```
+    ```
 
 * **TrackingSendQueuedHits**
 

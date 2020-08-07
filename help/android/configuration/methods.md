@@ -245,7 +245,7 @@ The following method must be called once in the `onCreate` method of your main a
         super.onResume()
         // assume being called in an Activity class Config.collectLifecycleData(this);
         } 
-        ```
+      ```
 
 * **pauseCollecting​LifecycleData**
 
