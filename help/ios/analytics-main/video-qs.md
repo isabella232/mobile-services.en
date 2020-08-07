@@ -266,7 +266,7 @@ NSUInteger eventType
                                          parentPod:@"catCollection"
                                          parentPodPosition:2
                                                       CPM:nil];
-      ```
+    ```
 
 * **mediaOpenWithSettings:​callback:**
 
@@ -294,7 +294,7 @@ NSUInteger eventType
 
     ```objective-c
      + (void) mediaClose:(NSString *)name; 
-     ```
+    ```
 
   * Here is the code sample for this method:
 
@@ -310,7 +310,7 @@ NSUInteger eventType
 
     ```objective-c
      + (void) mediaPlay:(NSString *)name offset:(double)offset;
-     ```
+    ```
 
   * Here is the code sample for this method:
 
@@ -326,13 +326,13 @@ NSUInteger eventType
 
     ```objective-c
      + (void) mediaComplete:(NSString *)name offset:(double)offset;
-     ```
+    ```
 
   * Here is the code sample for this method:
 
     ```objective-c
      [ADBMobile mediaComplete:@"meowzah" offset:90]; 
-     ```
+    ```
 
 * **mediaStop:​offset:**
 

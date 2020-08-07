@@ -89,7 +89,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
     ```objective-c
      +  (void)  trackActionFromBackground:(NSString  *)action
                                      data:(NSDictionary  *)data; 
-     ```
+    ```
 
   * Here is the code sample for this method:
 
@@ -159,7 +159,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
     ```objective-c
      +  (void)  trackLifetimeValueIncrease:(NSDecimalNumber  *)amount
                                      data:(NSDictionary  *)data; 
-     ```
+    ```
 
   * Here is the code sample for this method:
 
@@ -203,7 +203,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
     ```objective-c
      +  (void)  trackTimedActionUpdate:(NSString  *)action
                                   data:(NSDictionary  *)data; 
-     ```
+    ```
 
   * Here is the code sample for this method:
 
@@ -281,7 +281,7 @@ Each of these methods is used to send data into your Adobe Analytics report suit
 
     ```objective-c
      + (NSUInteger) trackingGetQueueSize;
-     ```
+    ```
 
   * Here is the code sample for this method:
 
