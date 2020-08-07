@@ -391,7 +391,7 @@ Here is a list of TVJS methods that are provided by the tvOS library.
           // do something with final values
           return true;
           });
-        ```
+      ```
 
 * **trackingTimedActionExistsJs**
 

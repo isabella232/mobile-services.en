@@ -33,7 +33,8 @@ Here is the list of default mobile metrics:
 
   Triggered when the application is used on a particular day.
 
-  >[!TIP] 
+  >[!TIP]
+  >
   >The Daily Engaged Users event is not automatically stored in an Analytics metric. You must create a processing rule that sets a custom event to capture this metric.
 
 * **Monthly Engaged Users**

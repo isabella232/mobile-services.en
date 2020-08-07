@@ -97,7 +97,7 @@ To measure video playback, The `mediaPlay`, `mediaStop`, and `mediaClose` method
 
     ```cpp
       ADBMediaAnalytics::sharedInstance()->open("name", 10.0, "playerName", "playerID"); 
-      ```
+    ```
 
 * **openAd**
 

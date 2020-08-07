@@ -26,7 +26,7 @@ For more information on how to set up and use Target Preview, see [Target Mobile
 
     ```objective-c
      + (void) targetPreviewRestartDeepLink:(nullable NSString *)callbackURL;
-     ```
+    ```
 
   * Here is the code sample for this method:
 

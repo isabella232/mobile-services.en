@@ -167,7 +167,7 @@ NSString *const ADBTargetParameterMboxHost;
                       orderParameters:(nullable NSDictionary *)orderParameters
                        mboxParameters:(nullable NSDictionary *)mboxParameters
                              callback:(nullable void (^)(NSString * __nullable content))callback;
-     ```
+    ```
 
   * Here is the code sample for this method:
 

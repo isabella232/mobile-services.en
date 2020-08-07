@@ -146,7 +146,7 @@ Here is a list of the variables in the JSON file and the minimum SDK version you
 
     Starting in version 4.2, POIs are defined in the Adobe Mobile interface and synchronized dynamically to the app configuration file. This synchronization requires the `analytics.poi` setting: 
 
-      ```javascript
+    ```javascript
       “analytics.poi“: `https://assets.adobedtm.com/`
     …/yourfile.json”`,
     ```
@@ -163,7 +163,7 @@ Here is a list of the variables in the JSON file and the minimum SDK version you
       "templatebody":"", //optional - if this length > 0 POST will be used as transport method. This is a base64 encoded blob, which will be decoded and token-expanded prior to being sent.
       "contenttype": "", // optional - if this is length > 0 and POST type is selected this will be set as the Content-Type header.  if this is not supplied for a POST request, the default will be "application/x-www-form-urlencoded"
       "timeout": 0 // optional - number of seconds to wait before timing out.  Default is 2.}
-     ```
+    ```
 
     The `payload` object in the code is a sample payload for a message definition that goes in the `ADBMobileConfig.json` file. For more information, see [Postbacks](/help/android/analytics-main/postbacks/postbacks.md).
 
@@ -202,7 +202,7 @@ Here is a list of the variables in the JSON file and the minimum SDK version you
 
     ```javascript
       "rsids" "rsid1,rsid2"
-       ```
+    ```
 
     >[!IMPORTANT]
     >

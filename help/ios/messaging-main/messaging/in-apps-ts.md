@@ -84,7 +84,7 @@ To display in-app messages in full-screen mode on an iPhone X:
 
 1. Set up appropriate padding in the CSS for the top UI element such as: 
 
-    ```html
+   ```html
     topelement {
       padding-top:20px;
       /*Status bar height on iOS 11.0*/
@@ -92,6 +92,6 @@ To display in-app messages in full-screen mode on an iPhone X:
       /*Status bar height on iOS 11+ */
       padding-top:env(safe-area-inset-top);
       } 
-      ```
+   ```
 
    These settings prevent the UI elements from colliding with the status bar. 

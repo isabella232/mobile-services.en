@@ -67,7 +67,9 @@ For more information, see [Troubleshooting Account Linking](https://docs.adobe.c
 
 Before you enable the ID service for your app, the **[!UICONTROL Push Services]** section is disabled. But, after you enable the ID service, the Push Services section is enabled. For more information about enabling push services, see [Configure SDK ID service options](/help/using/c-manage-app-settings/c-mob-confg-app/t-config-visitor.md).
 
->[!IMPORTANT]: You must click **[!UICONTROL Save]** to save your changes and refresh the Push Services.
+>[!IMPORTANT]
+>
+>You must click **[!UICONTROL Save]** to save your changes and refresh the Push Services.
 >
 >You can configure one app store app for Apple and one for Google in each report suite. If you need additional apps, for example, one for a production environment and one for a dev environment, set up a new app store app and a new report suite for each environment.
 

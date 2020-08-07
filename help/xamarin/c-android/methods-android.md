@@ -45,7 +45,7 @@ Android methods for Xamarin components for Experience Cloud solutions 4.x SDK.
 
     ```java
      var lifetimeValue = Config.LifetimeValue;
-     ```
+    ```
 
 * **PrivacyStatus**
 
@@ -200,7 +200,7 @@ Android methods for Xamarin components for Experience Cloud solutions 4.x SDK.
 
     ```java
      Config.SetSmallIconResourceId(R.drawable.appIcon);
-     ```
+    ```
 
 ## Analytics methods {#section_63CF636104EF41F790C3E4190D755BBA}
 
@@ -285,7 +285,7 @@ Android methods for Xamarin components for Experience Cloud solutions 4.x SDK.
      loc.Longitude = 44; 
      loc.Accuracy = 5; 
      Analytics.TrackLocation (loc, null);
-     ```
+    ```
 
 * **TrackBeacon**
 
@@ -684,7 +684,7 @@ Android methods for Xamarin components for Experience Cloud solutions 4.x SDK.
 
     ```java
      AudienceManager.Reset ();
-     ```
+    ```
 
 ## Video {#section_CBCE1951CE204A108AD4CA7BB07C7F98}
 

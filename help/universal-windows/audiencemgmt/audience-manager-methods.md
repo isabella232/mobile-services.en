@@ -107,4 +107,5 @@ If audience manager is configured in your JSON file, a signal that contains life
     traits["trait"] = "b";
     ADB.AudienceManager.signalWithData(traits).then(function (visitorProfile) { 
       // segments come back here in "visitorProfile", normally found in the "segs" object of your json 
-    }); 
+    });
+    ```
