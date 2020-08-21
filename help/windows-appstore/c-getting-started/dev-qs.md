@@ -105,7 +105,7 @@ Additionally, when using the SDK in a WinJS project, use an empty string ( `""` 
 ## Add the library and config file to your project - WinJS {#section_FF83113EBF4742AFA929F4AC28F92DB5}
 
 1. Launch Visual Studio and open your solution. 
-1. In the **Solution Explorer**, right-click **[!UICONTROL References]** and select **[!UICONTROL Add Reference**.
+1. In the **Solution Explorer**, right-click **[!UICONTROL References]** and select **[!UICONTROL Add Reference]**.
 
     For more information, see *Select the Correct Version* section below.
 

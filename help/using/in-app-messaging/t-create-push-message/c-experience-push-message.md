@@ -98,7 +98,7 @@ To configure a push message on the Experience page:
 
 1. (Optional) Preview the layout of your message by clicking following icons:
 
-   * **[!UICONTROL x Summary}**
+   * **[!UICONTROL x Summary]**
 
      Hides the preview pane. Click ![preview](assets/icon_preview.png) to display the preview pane again.
 

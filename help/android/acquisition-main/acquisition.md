@@ -151,7 +151,7 @@ The updates in this section enable the SDK to send acquisition data from an acqu
 
 ## Tracking mobile acquisition {#section_CEA30C652AC8470784B8054E299B80FA}
 
-1. Add the library [to your project and implement lifecycle.
+1. Add the library to your project and implement lifecycle.
 
    For more information, see *Add the SDK and Config File to your IntelliJ IDEA or Eclipse Project* in [Core implementation and lifecycle](/help/android/getting-started/dev-qs.md).
 

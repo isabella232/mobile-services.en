@@ -26,7 +26,7 @@ Before you add code, have your Analytics Administrator complete the following to
 
    ![](assets/enable-lifecycle.png)
 
-Lifecycle metrics are now ready to be captured, and Mobile Application Reports] appear in the **[!UICONTROL Reports]** menu in the marketing reports interface. 
+Lifecycle metrics are now ready to be captured, and Mobile Application Reports appear in the **[!UICONTROL Reports]** menu in the marketing reports interface. 
 
 ## Collect lifecycle metrics {#task_25D469C62DF84573AEB5E8E950B96205}
 

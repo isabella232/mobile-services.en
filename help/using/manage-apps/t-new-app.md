@@ -72,7 +72,7 @@ Before you can configure your app, you must add it in the Adobe Mobile Services 
 
       * **[!UICONTROL Standard]**
 
-           You can leave the **[!UICONTROL Standard}** option selected for most apps.
+           You can leave the **[!UICONTROL Standard]** option selected for most apps.
 
       * **[!UICONTROL Publication]**
 

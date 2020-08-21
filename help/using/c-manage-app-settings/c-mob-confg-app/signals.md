@@ -48,7 +48,7 @@ Postbacks let you send data collected by Adobe Mobile to a separate third-party 
 
    * **[!UICONTROL Trait(s)]**
 
-    Specify who can see the message when it is triggered. Options include **[!UICONTROL Session Length**, **[!UICONTROL First Launch Date]**, and **[!UICONTROL App ID]**.
+    Specify who can see the message when it is triggered. Options include **[!UICONTROL Session Length]**, **[!UICONTROL First Launch Date]**, and **[!UICONTROL App ID]**.
 
 1. Click **[!UICONTROL Save]** to create the postback and add it to the **[!UICONTROL Manage Postbacks]** list.
 

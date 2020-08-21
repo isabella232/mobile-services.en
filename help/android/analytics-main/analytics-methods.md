@@ -13,7 +13,7 @@ uuid: ac7c640e-9dcc-4724-b561-019cc025d5a7
 
 Here is a list of Adobe Analytics methods that are provided by the Android library.
 
-The SDK currently supports multiple Adobe Experience Cloud Solutions], including Analytics], Target], Audience Manager], and the Adobe Experience Platform Identity Service]. Methods are prefixed according to the solution, for example, Experience Cloud ID methods are prefixed with `analytics`.
+The SDK currently supports multiple Adobe Experience Cloud Solutions, including Analytics, Target, Audience Manager, and the Adobe Experience Platform Identity Service. Methods are prefixed according to the solution, for example, Experience Cloud ID methods are prefixed with `analytics`.
 
 Each of the following methods is used to send data to your Adobe Analytics report suite:
 

@@ -18,7 +18,7 @@ If your mobile app is not yet in Google Play, you can select any mobile app as a
 The app must be freshly installed, or have data cleared in **[!UICONTROL Settings]**, each time a test is run. This ensures that the initial lifecycle metrics that are associated with the campaign query string parameters are sent when the app is first launched. 
 
 1. Complete the prerequisite tasks in [Mobile app acquisition](/help/android/acquisition-main/acquisition.md) and ensure that you have correctly implemented the broadcast receiver for `INSTALL_REFERRER`.
-1. In the Adobe Mobile Services] UI, click  **[!UICONTROL Acquisition]** > **[!UICONTROL Marketing Links Builder]** and generate an Acquisition Marketing Link URL that sets Google Play as the destination for Android devices.
+1. In the Adobe Mobile Services UI, click  **[!UICONTROL Acquisition]** > **[!UICONTROL Marketing Links Builder]** and generate an Acquisition Marketing Link URL that sets Google Play as the destination for Android devices.
 
    For more information, see [Marketing Links Builder](/help/using/acquisition-main/c-marketing-links-builder/c-marketing-links-builder.md).
 

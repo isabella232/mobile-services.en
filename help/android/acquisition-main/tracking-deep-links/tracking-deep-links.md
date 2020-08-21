@@ -38,7 +38,7 @@ You can use this information to track deep and deferred deep links in your mobil
    }
    ```
 
-The Adobe Mobile] SDK can parse key and value pairs of data that is appended to any Deep or Universal Link as long as the link contains a key with the `a.deeplink.id` label and a corresponding non-null and user-generated value. All key and value pairs of data that are appended to the link will be parsed, attached to a lifecycle hit, and sent to Adobe Analytics] as long as the link contains the `a.deeplink.id` key and value.
+The Adobe Mobile SDK can parse key and value pairs of data that is appended to any Deep or Universal Link as long as the link contains a key with the `a.deeplink.id` label and a corresponding non-null and user-generated value. All key and value pairs of data that are appended to the link will be parsed, attached to a lifecycle hit, and sent to Adobe Analytics as long as the link contains the `a.deeplink.id` key and value.
 
 Additionally, you might append one or more of the following reserved keys (with user-generated values) to the deep or Universal Link:
 

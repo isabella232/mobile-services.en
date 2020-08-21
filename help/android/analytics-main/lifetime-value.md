@@ -16,7 +16,7 @@ Each time you send in a value with `trackLifetimeValueIncrease`, the value is ad
 
 ## Track the visitor lifetime value {#section_390943A49AF841F2941E65D6DF2B3F5A}
 
-1. Add the [library to your project and implement lifecycle.
+1. Add the library to your project and implement lifecycle.
 
    For more information, see *Add the SDK and Config File to your IntelliJ IDEA or Eclipse Project* in [Core implementation and lifecycle](/help/android/getting-started/dev-qs.md). 
 1. Import the library: 

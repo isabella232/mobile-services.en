@@ -18,7 +18,7 @@ When you want to use the Adobe SDK to collect PII, you should send a track PII c
 
 ## Tracking PII postbacks {#section_36B967B888CF467EACCDEF61DFA0B12B}
 
-1. Add [the library to your project and implement lifecycle. 
+1. Add the library to your project and implement lifecycle. 
 
     For more information, see *Add the SDK and Config File to your IntelliJ IDEA or Eclipse Project* in [Core implementation and lifecycle](/help/android/getting-started/dev-qs.md). 
 

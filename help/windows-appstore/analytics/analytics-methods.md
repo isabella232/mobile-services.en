@@ -12,7 +12,7 @@ uuid: 79db105c-216c-4061-97f3-a55954995e67
 
 Information to help you use the Windows 8.1 Universal App Store SDK with Adobe Analytics.
 
-The SDK currently has support for multiple Adobe Experience Cloud Solutions], including Analytics], Target], and Audience Manager]. Methods are prefixed according to the solution. Analytics methods are prefixed with "Analytics."
+The SDK currently has support for multiple Adobe Experience Cloud Solutions, including Analytics, Target, and Audience Manager. Methods are prefixed according to the solution. Analytics methods are prefixed with "Analytics."
 
 Each of these methods is used to send data into your Adobe Analytics report suite.
 
