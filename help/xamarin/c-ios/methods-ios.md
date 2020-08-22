@@ -208,7 +208,7 @@ iOS methods for Xamarin components for Experience Cloud solutions 4.x SDK.
 
   Tracks an app state with optional context data. States are the views that are available in your app, such as "title screen", "level 1", "pause", and so on. These states are similar to pages on a website, and `TrackState` calls increment page views.If state is empty, it displays as "app name app version (build)" in reports. If you see this value in reports, make sure you are setting state in each `TrackState` call. 
   
-  [!TIP]
+  >[!TIP]
   >
   >This is the only tracking call that increments page views.
 
