@@ -27,10 +27,10 @@ This Extensions provides you a much easier way to add the reference of Experienc
 
    ![](assets/ref_manager.png)
 
-1. On the **[!UICONTROL Extensions]** tab of Windows 8.1 or Windows Phone 8.1, locate and select **[UICONTROL Adobe Mobile SDK]**. 
+1. On the **[!UICONTROL Extensions]** tab of Windows 8.1 or Windows Phone 8.1, locate and select **[!UICONTROL Adobe Mobile SDK]**. 
 1. Click **[!UICONTROL OK]** to save it.
 
-   The Adobe Mobile SDK will be added to your project, and if it has not already been added, the **[UICONTROL Microsoft Visual C++ Runtime]** package is also added. 
+   The Adobe Mobile SDK will be added to your project, and if it has not already been added, the **[!UICONTROL Microsoft Visual C++ Runtime]** package is also added. 
 
 1. In the Configuration Manager, select a Platform type, and begin testing your app.
 
