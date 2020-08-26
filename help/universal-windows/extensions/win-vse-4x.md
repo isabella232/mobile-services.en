@@ -16,7 +16,7 @@ This extension provides a much easier way to add the reference of the Experience
 
 1. Download the Windows Universal SDK from [GitHub](https://github.com/Adobe-Marketing-Cloud/mobile-services/releases). 
 1. Unzip the downloaded file locally. 
-1. Double-click the **[!UICONTRTOL ADBMobileUniversalWindowsVSIX.vsix]** file to open the installer. 
+1. Double-click the **[!UICONTROL ADBMobileUniversalWindowsVSIX.vsix]** file to open the installer. 
 1. Select **[!UICONTROL Global Location]** and install the library.
 
 ## Add references to your project {#section_00C14FE9243D4330BE1F4BB56FCF08B1}

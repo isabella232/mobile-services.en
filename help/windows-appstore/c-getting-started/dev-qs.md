@@ -37,7 +37,7 @@ Additionally, when using the SDK in a WinJS project, use an empty string ( `""` 
 ## Add the library and config file to your project - C Sharp {#section_93C25D893B4A4CD3B996CF3C5590C8DC}
 
 1. Launch Visual Studio and open your solution. 
-1. In the **Solution Explorer**, right-click **[!UICONTROL References]** and select **[!UIUCONTROL Add Reference]**. 
+1. In the **Solution Explorer**, right-click **[!UICONTROL References]** and select **[!UICONTROL Add Reference]**. 
 
 1. Select the correct version of the library and browse to the associated `ADBMobile.winmd` file. 
 
