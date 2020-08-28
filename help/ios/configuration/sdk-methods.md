@@ -350,17 +350,20 @@ The SDK currently has support for multiple Adobe Experience Cloud Solutions, inc
   >[!TIP]
   >
   >Retrieve the IDFA from Apple APIs **only** if you are using an ad service. If you retrieve IDFA, and are not using it properly, your app might be rejected. 
-
+  >
+  >If your application requires IDFA, check [Apple’s documentation](https://developer.apple.com/documentation/adsupport) for inquiring the user’s preferences on Ad Tracking and retrieving the IDFA value. 
+  >
+  >For iOS 14+ the new [App Tracking Transparency framework](https://developer.apple.com/documentation/apptrackingtransparency) needs to be implemented in order to successfully retrieve the IDFA value.
   * Here is the syntax for this method:
 
     ```objective-c
     +(void) setAdvertisingIdentifier:(NSString*)identifier;
     ```
-
+  
   * Here is the code sample for this method:
-
+  
     ```objective-c
-    NSString *idfa = [[[ASIdentifierManager sharedManager]advertisingIdentifier] UUIDString]; 
+    NSString *idfa = // retrieve IDFA using AdSupport (before iOS 14.0) and/or AppTrackingTransparency (iOS 14.0+)
     [ADBMobile setAdvertisingIdentifier:idfa]; 
     ```
 
