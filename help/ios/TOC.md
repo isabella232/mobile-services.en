@@ -1,10 +1,11 @@
 ---
 product: mobile-services
 audience: end-user
-user-guide-title: Mobile Services iOS Help
+user-guide-title: Mobile Services iOS Guide
+breadcrumb-title: iOS Guide
 ---
 
-# Mobile Services iOS Help {#ios}
+# Mobile Services iOS Guide {#ios}
 
 + [iOS SDK 4.x for Experience Cloud Solutions](overview.md)
 + [Release notes](rel-notes.md)

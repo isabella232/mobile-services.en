@@ -1,10 +1,11 @@
 ---
 product: mobile-services
 audience: end-user
-user-guide-title: Mobile Services Xamarin Help
+user-guide-title: Mobile Services Xamarin Guide
+breadcrumb-title: Xamarin Guide
 ---
 
-# Mobile Services Xamarin Help {#xamarin}
+# Mobile Services Xamarin Guide {#xamarin}
 
 + [Xamarin components for Experience Cloud Solutions 4.x SDK](get-started.md)
 + [Making calls to the library](library-calls.md)

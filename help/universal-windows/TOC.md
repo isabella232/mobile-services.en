@@ -1,10 +1,11 @@
 ---
 product: mobile-services
 audience: end-user
-user-guide-title: Mobile Services Universal Windows Platform Help
+user-guide-title: Mobile Services Universal Windows Platform Guide
+breadcrumb-title: Universal Windows Platform Guide
 ---
 
-# Mobile Services Universal Windows Platform Help {#universal-windows}
+# Mobile Services Universal Windows Platform Guide {#universal-windows}
 
 + [Universal Windows Platform SDK 4.x for Experience Cloud Solutions](overview.md)
 + Get started {#get-started-univ-win-plat}
