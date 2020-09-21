@@ -1,10 +1,11 @@
 ---
 product: mobile-services
 audience: end-user
-user-guide-title: Mobile Services Android Help
+user-guide-title: Mobile Services Android Guide
+breadcrumb-title: Android Guide
 ---
 
-# Mobile Services Android Help{#android}
+# Mobile Services Android Guide{#android}
 
 + [Android SDK 4.x for Experience Cloud Solutions](overview.md)
 + [Release notes](rel-notes.md)

@@ -1,11 +1,12 @@
 ---
 product: mobile-services
 audience: end-user
-user-guide-title: Mobile Services User Help
-user-guide-description: Mobile Services is an end-to-end solution that helps you acquire and engage mobile app users and analyze and optimize their experiences.
+user-guide-title: Mobile Services Guide
+breadcrumb-title: Mobile Services Guide
+user-guide-description: Mobile Services is an end-to-end solution that helps you acquire and engage mobile app users and optimize their experiences.
 ---
 
-# Mobile Services User Help {#using}
+# Mobile Services Guide {#using}
 
 + [Adobe Mobile Services](home.md)
 + [Release notes](whatsnew.md)
