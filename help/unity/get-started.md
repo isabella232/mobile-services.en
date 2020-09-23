@@ -3,7 +3,7 @@ description: This Plug-in lets you send Adobe Analytics calls from your Unity ap
 keywords: Unity
 seo-description: This Plug-in lets you send Adobe Analytics calls from your Unity applications.
 seo-title: Unity Plug-in for the iOS and Android 4.x SDKs
-solution: Marketing Cloud,Developer
+solution: Experience Cloud
 title: Unity Plug-in for the iOS and Android 4.x SDKs
 uuid: 83289a73-982d-4472-a8c8-00b562dc80f5
 ---

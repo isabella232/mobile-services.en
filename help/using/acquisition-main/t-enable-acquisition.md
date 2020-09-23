@@ -3,7 +3,7 @@ description: Acquisition tracking must be enabled in the SDK configuration befor
 keywords: mobile
 seo-description: Acquisition tracking must be enabled in the SDK configuration before you can track and report on Marketing Links.
 seo-title: Configure Acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configure Acquisition
 topic: Metrics
 uuid: e996e43e-8a77-47a3-a6fb-53f676f92bef

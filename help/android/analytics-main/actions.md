@@ -2,7 +2,7 @@
 description: Actions are the events that occur in your Android app that you want to measure.
 seo-description: Actions are the events that occur in your Android app that you want to measure.
 seo-title: Track app actions
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Track app actions
 topic: Developer and implementation
 uuid: fe01c1df-f6bb-4b32-b3ef-959d2c724af6

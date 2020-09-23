@@ -3,7 +3,7 @@ description: New release information for Adobe Mobile Services.
 keywords: mobile;release notes;whats new
 seo-description: New release information for Adobe Mobile Services.
 seo-title: Release notes for Adobe Mobile Services
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Release notes
 topic: Metrics
 uuid: 522b0589-d61f-4a9f-952e-ba7ce11af2f9

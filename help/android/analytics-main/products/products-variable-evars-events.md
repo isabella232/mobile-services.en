@@ -3,7 +3,7 @@ description: Here is an example of the products variable with Merchandising eVar
 keywords: android;library;mobile;sdk
 seo-description: Here is an example of the products variable with Merchandising eVars and product-specific events.
 seo-title: Products Variable with Merchandising eVars and Product-Specific Events
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Products Variable with Merchandising eVars and Product-Specific Events
 topic: Developer and implementation
 uuid: 64f822a0-6ccf-48e7-8886-31b93d8198a3

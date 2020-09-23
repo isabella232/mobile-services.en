@@ -3,7 +3,7 @@ description: The appFigures data connector integration combines the power of the
 keywords: mobile
 seo-description: The appFigures data connector integration combines the power of the appFigures integrated mobile app store analytics and the direct app tracking of Adobe Analytics to create powerful analytics and optimization opportunities for your organization.
 seo-title: App Store
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: App Store
 topic: Metrics
 uuid: a194364d-faaf-4995-befd-cf48f9c1f11b

@@ -3,7 +3,7 @@ description: The Top 10 Articles report displays a sunburst visualization for yo
 keywords: mobile
 seo-description: The Top 10 Articles report displays a sunburst visualization for your data. This report is available only to Digital Publishing Suites (DPS) customers.
 seo-title: Top 10 Articles
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Top 10 Articles
 topic: Metrics
 uuid: cf53cc0b-7c84-41c8-97d5-d9ee833a916b

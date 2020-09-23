@@ -2,7 +2,7 @@
 description: Here are the Adobe Experience Platform Identity Service methods that are provided by the iOS library.
 seo-description: Here are the Adobe Experience Platform Identity Service methods that are provided by the iOS library.
 seo-title: Adobe Experience Platform Identity Service methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Adobe Experience Platform Identity Service methods
 topic: Developer and implementation
 uuid: cdd307bc-8b7d-47a8-b77e-00902b9e2968

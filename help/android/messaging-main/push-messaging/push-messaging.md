@@ -2,7 +2,7 @@
 description: Adobe Mobile and the Adobe Mobile SDK allow you to send push messages to your users. The SDK also allows you to easily report users who have opened your app after clicking through a push message.
 seo-description: Adobe Mobile and the Adobe Mobile SDK allow you to send push messages to your users. The SDK also allows you to easily report users who have opened your app after clicking through a push message.
 seo-title: Push Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Push Messaging
 topic: Developer and implementation
 uuid: 729d4010-3733-4dff-b188-ad45bd3e7cc4

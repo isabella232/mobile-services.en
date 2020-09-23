@@ -3,7 +3,7 @@ description: You can use this information to help you understand postbacks are a
 keywords: android;library;mobile;sdk
 seo-description: You can use this information to help you understand postbacks are and how they work.
 seo-title: Postbacks Example
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Postbacks Example
 topic: Developer and implementation
 uuid: 8010cd00-d42b-4e16-8403-692fab2550f1

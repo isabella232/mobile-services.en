@@ -3,7 +3,7 @@ description: You can use the Marketing Links page to create, use, and archive ma
 keywords: mobile
 seo-description: You can use the Marketing Links page to create, use, and archive marketing links.
 seo-title: Manage Marketing Links
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Manage Marketing Links
 topic: Metrics
 uuid: 98ac3520-89ed-4513-83f6-120dda9d0157

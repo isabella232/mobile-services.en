@@ -3,7 +3,7 @@ description: You can view an interactive map that displays your Points of Intere
 keywords: mobile
 seo-description: You can view an interactive map that displays your Points of Interest and other data markers.
 seo-title: Map
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Map
 topic: Metrics
 uuid: 3c271738-eb8d-4c26-baaf-54b247bfc4da

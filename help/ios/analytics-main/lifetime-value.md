@@ -2,7 +2,7 @@
 description: Lifetime value lets you measure and target on a lifetime value for each user.
 seo-description: Lifetime value lets you measure and target on a lifetime value for each user.
 seo-title: Visitor lifetime value
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Visitor lifetime value
 topic: Developer and implementation
 uuid: d830d18b-4313-43bb-8d75-3789869d0f1d

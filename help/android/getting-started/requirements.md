@@ -2,7 +2,7 @@
 description: Before configuring a report suite and collecting Android app data, complete the following prerequisite tasks 
 seo-description: Before configuring a report suite and collecting Android app data, complete the following prerequisite tasks 
 seo-title: Before You Start
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Before You Start
 topic: Developer and implementation
 uuid: 0ca9e937-8d40-4570-9dbf-9aecc6ecedf6

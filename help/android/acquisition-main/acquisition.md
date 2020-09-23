@@ -3,7 +3,7 @@ description: Acquisition links with unique tracking codes can be generated in Ad
 keywords: android;library;mobile;sdk
 seo-description: Acquisition links with unique tracking codes can be generated in Adobe Mobile services. When a user downloads and runs an app from the App store after clicking on the generated link, the SDK automatically collects and sends the acquisition data to Adobe Mobile services.
 seo-title: Mobile App Acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Mobile App Acquisition
 topic: Developer and implementation
 uuid: 4d32eae9-e856-4e40-8a29-2b5bccd106e0

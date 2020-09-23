@@ -3,7 +3,7 @@ description: Import or export acquisition links if you would rather work with th
 keywords: mobile
 seo-description: Import or export acquisition links if you would rather work with the links using a .csv file instead of using the Adobe Mobile Services user interface.
 seo-title: Import or export Acquisition links
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Import or export Acquisition links
 topic: Metrics
 uuid: 94ea008a-473a-40c3-9fa8-a94eb0208c8f

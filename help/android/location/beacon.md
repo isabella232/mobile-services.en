@@ -3,7 +3,7 @@ description: Beacon tracking allows you to measure and target micro locations by
 keywords: android;library;mobile;sdk
 seo-description: Beacon tracking allows you to measure and target micro locations by using iBeacon and Bluetooth Low Energy.
 seo-title: Beacon tracking
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Beacon tracking
 topic: Developer and implementation
 uuid: 16c1d267-85f4-4a6a-a6d3-d6ffb0f80b29

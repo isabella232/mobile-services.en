@@ -3,7 +3,7 @@ description: The following information helps you roundtrip a legacy acquisition 
 keywords: android;library;mobile;sdk
 seo-description: The following information helps you roundtrip a legacy acquisition campaign link on an Android device.
 seo-title: Testing Legacy Acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Testing Legacy Acquisition
 topic: Developer and implementation
 uuid: bb7ace96-68eb-4f43-b3cf-af80730b9cee

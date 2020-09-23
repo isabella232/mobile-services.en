@@ -2,7 +2,7 @@
 description: List of Target methods provided by the Windows 8.1 Universal App Store library.
 seo-description: List of Target methods provided by the Windows 8.1 Universal App Store library.
 seo-title: Target methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Target methods
 topic: Developer and implementation
 uuid: 8c35b31c-c70b-4dba-8759-173342a301e9

@@ -2,7 +2,7 @@
 description: List of Target methods provided by the Universal Windows Platform library.
 seo-description: List of Target methods provided by the Universal Windows Platform library.
 seo-title: Target methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Target methods
 topic: Developer and implementation
 uuid: 2ad5953b-7850-446a-8053-b3715b86329b

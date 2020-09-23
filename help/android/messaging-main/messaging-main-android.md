@@ -2,7 +2,7 @@
 description: This information helps you use messaging in your Android apps.
 seo-description: This information helps you use messaging in your Android apps.
 seo-title: Messaging overview
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Messaging overview
 topic: Developer and implementation
 uuid: c6475ab4-015d-46b0-af28-5d0df3f4459e

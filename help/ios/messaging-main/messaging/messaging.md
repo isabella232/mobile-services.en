@@ -2,7 +2,7 @@
 description: This information helps you use in-app messaging in your iOS apps.
 seo-description: This information helps you use in-app messaging in your iOS apps.
 seo-title: In-App Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: In-App Messaging
 topic: Developer and implementation
 uuid: 21fa6a94-bb7f-4c78-843b-a50f1974db22

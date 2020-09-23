@@ -3,7 +3,7 @@ description: You can configure the SDK Acquisition options on the Manage App Set
 keywords: mobile
 seo-description: You can configure the SDK Acquisition options on the Manage App Settings page while creating a new app or editing an existing app.
 seo-title: Configure SDK Acquisition Options
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configure SDK Acquisition Options
 topic: Metrics
 uuid: 50ce51ad-39bf-4ac7-bd94-757443d11ca7

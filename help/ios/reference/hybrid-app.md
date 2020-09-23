@@ -2,7 +2,7 @@
 description: If your app opens mobile web content, you need to ensure that visitors are not identified separately as they move between the native and mobile web.
 seo-description: If your app opens mobile web content, you need to ensure that visitors are not identified separately as they move between the native and mobile web.
 seo-title: Visitor Tracking Between an App and Mobile Web
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Visitor Tracking Between an App and Mobile Web
 topic: Developer and implementation
 uuid: 2d951de6-3954-4379-a4ff-99b9695b9869

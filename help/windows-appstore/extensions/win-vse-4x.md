@@ -2,7 +2,7 @@
 description: This Extensions provides you a much easier way to add the reference of Experience Cloud Solutions 4.x Windows SDK in you project.
 seo-description: This Extensions provides you a much easier way to add the reference of Experience Cloud Solutions 4.x Windows SDK in you project.
 seo-title: Windows Visual Studio extensions for Experience Cloud Solutions 4.x SDK
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Windows Visual Studio extensions for Experience Cloud Solutions 4.x SDK
 topic: Developer and implementation
 uuid: 7d0ea312-340b-46ea-a737-b70a6766a536

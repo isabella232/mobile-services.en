@@ -2,7 +2,7 @@
 description: Starting with iOS 10, Apple allows you to create an extension called a stand-alone extension that can be distributed without a containing app. With this extension, you do not need an app group, as there is no containing app with which to share data.
 seo-description: Starting with iOS 10, Apple allows you to create an extension called a stand-alone extension that can be distributed without a containing app. With this extension, you do not need an app group, as there is no containing app with which to share data.
 seo-title: Stand-Alone Extension Implementation
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Stand-Alone Extension Implementation
 topic: Developer and implementation
 uuid: 9b47f082-b78f-4611-968d-014c32ede6bc

@@ -2,7 +2,7 @@
 description: Event serialization is not supported by processing rules. In the mobile SDK, you must use a special syntax within the context data parameter to set serialized events directly on the server call.
 seo-description: Event serialization is not supported by processing rules. In the mobile SDK, you must use a special syntax within the context data parameter to set serialized events directly on the server call.
 seo-title: Event serialization
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Event serialization
 topic: Developer and implementation
 uuid: a5966d05-e218-446f-9f19-8664a84b74cd

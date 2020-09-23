@@ -2,7 +2,7 @@
 description: Starting with WatchOS 2, your WatchKit Extensions will run on an Apple Watch device. Applications that run in this environment require the WatchConnectivity framework to share data with their containing iOS app.
 seo-description: Starting with WatchOS 2, your WatchKit Extensions will run on an Apple Watch device. Applications that run in this environment require the WatchConnectivity framework to share data with their containing iOS app.
 seo-title: Apple Watch Implementation with WatchOS 2
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Apple Watch Implementation with WatchOS 2
 topic: Developer and implementation
 uuid: 9498467e-db5e-411e-a00e-d19841f485de

@@ -2,7 +2,7 @@
 description: Here is a list of TVJS methods that are provided by the tvOS library.
 seo-description: Here is a list of TVJS methods that are provided by the tvOS library.
 seo-title: TVJS Methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: TVJS Methods
 topic: Developer and implementation
 uuid: a7bfa85a-0d6e-4f51-9a9e-70429c2a9806

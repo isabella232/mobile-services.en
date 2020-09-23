@@ -2,7 +2,7 @@
 description: Classes and methods provided by the Windows 8.1 Universal App Store library.
 seo-description: Classes and methods provided by the Windows 8.1 Universal App Store library.
 seo-title: SDK methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: SDK methods
 topic: Developer and implementation
 uuid: 0f558ff4-73d3-4439-9d51-62fbd74d2cea

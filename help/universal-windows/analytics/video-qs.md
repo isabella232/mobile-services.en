@@ -2,7 +2,7 @@
 description: Information to help you with Video Analytics.
 seo-description: Information to help you with Video Analytics.
 seo-title: Video Analytics
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Video Analytics
 topic: Developer and implementation
 uuid: f45dac3b-cd2e-4fba-a3b2-c243640ecfa4

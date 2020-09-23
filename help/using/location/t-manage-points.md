@@ -3,7 +3,7 @@ description: You can create and manage points of interest, which allow you to de
 keywords: mobile
 seo-description: You can create and manage points of interest, which allow you to define geographical locations that you can use for correlation purposes, target with in-app messages, and so on. When a hit is sent in a point of interest, the point of interest is attached to the hit.
 seo-title: Manage Points of Interest
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Manage Points of Interest
 topic: Metrics
 uuid: 7b362534-54fb-43a3-b6b2-dfc8f45ff7c6

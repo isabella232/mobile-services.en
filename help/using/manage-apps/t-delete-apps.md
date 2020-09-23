@@ -3,7 +3,7 @@ description: You can delete an app from Adobe Mobile.
 keywords: mobile
 seo-description: You can delete an app from Adobe Mobile.
 seo-title: Delete an App
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Delete an App
 topic: Metrics
 uuid: 1721cce5-b368-4f05-a40b-e3f2348d96d8

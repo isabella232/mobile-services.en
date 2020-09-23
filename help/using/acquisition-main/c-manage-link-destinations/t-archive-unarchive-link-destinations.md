@@ -3,7 +3,7 @@ description: You can use the Link Destinations page to edit, archive, unarchive,
 keywords: mobile
 seo-description: You can use the Link Destinations page to edit, archive, unarchive, or delete existing destination.
 seo-title: Manage Link Destinations
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Manage Link Destinations
 topic: Metrics
 uuid: 3a38d40d-b4c7-4f9f-aa6e-979613faaba2

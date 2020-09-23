@@ -2,7 +2,7 @@
 description: The following table describes the different app identifiers that are used by the iOS SDK and Adobe Mobile services.
 seo-description: The following table describes the different app identifiers that are used by the iOS SDK and Adobe Mobile services.
 seo-title: App IDs
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: App IDs
 topic: Developer and implementation
 uuid: 24ebc716-23c7-4ee8-8256-b534210367e0

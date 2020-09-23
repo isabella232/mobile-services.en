@@ -2,7 +2,7 @@
 description: This information helps you implement the iOS library and collect lifecycle metrics, such as launches, upgrades, sessions, engaged users, and so on.
 seo-description: This information helps you implement the iOS library and collect lifecycle metrics, such as launches, upgrades, sessions, engaged users, and so on.
 seo-title: Core Implementation and Lifecycle
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Core Implementation and Lifecycle
 topic: Developer and implementation
 uuid: 96d06325-e424-4770-8659-4b5431318ee3

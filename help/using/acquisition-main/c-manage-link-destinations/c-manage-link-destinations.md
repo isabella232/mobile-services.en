@@ -3,7 +3,7 @@ description: In the Manage Link Destinations page, you can create, edit, archive
 keywords: mobile
 seo-description: In the Manage Link Destinations page, you can create, edit, archive/unarchive, and delete link destinations. These destinations can be called inline when building Marketing Links, push notifications, or in-app messages.
 seo-title: Create and Manage Link Destinations
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Create and Manage Link Destinations
 topic: Metrics
 uuid: 43930e3a-6a11-40c6-8a61-6732a673dac7

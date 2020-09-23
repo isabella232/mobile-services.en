@@ -3,7 +3,7 @@ description: The following instructions help you roundtrip an acquisition campai
 keywords: android;library;mobile;sdk
 seo-description: The following instructions help you roundtrip an acquisition campaign with a Marketing Link that is based on a device fingerprint.
 seo-title: Testing Marketing Link acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Testing Marketing Link acquisition
 topic: Developer and implementation
 uuid: 69503e01-182d-44c6-b0fb-e1c012ffa3bd

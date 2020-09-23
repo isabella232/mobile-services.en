@@ -3,7 +3,7 @@ description: You can view reports that are available to Digital Publishing Suite
 keywords: mobile
 seo-description: You can view reports that are available to Digital Publishing Suite (DPS) customers.
 seo-title: Digital Publishing Suite overview
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Digital Publishing Suite overview
 topic: Metrics
 uuid: ca335891-5d73-47dc-811f-374a0844109f

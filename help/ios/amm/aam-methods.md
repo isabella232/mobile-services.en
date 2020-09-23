@@ -2,7 +2,7 @@
 description: Here is a list of the Audience Manager methods that are provided by the iOS library.
 seo-description: Here is a list of the Audience Manager methods that are provided by the iOS library.
 seo-title: Audience Manager Methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience Manager Methods
 topic: Developer and implementation
 uuid: 97658bd6-4c4f-4875-abe9-36dad4ec8bae

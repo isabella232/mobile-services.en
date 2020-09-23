@@ -2,7 +2,7 @@
 description: List of Audience Manager methods provided by the Windows 8.1 Universal App Store library.
 seo-description: List of Audience Manager methods provided by the Windows 8.1 Universal App Store library.
 seo-title: Audience Manager methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience Manager methods
 topic: Developer and implementation
 uuid: e39c9c3e-fd53-4b46-8fff-88101a064a9c

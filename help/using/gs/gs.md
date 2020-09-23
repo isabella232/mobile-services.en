@@ -3,7 +3,7 @@ description: This information helps you understand and use with Adobe Mobile Ser
 keywords: mobile
 seo-description: This information helps you understand and use with Adobe Mobile Services.
 seo-title: Getting Started
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Getting Started
 topic: Metrics
 uuid: a7ae7c5a-dab8-4603-b4cd-af73a2f09f71

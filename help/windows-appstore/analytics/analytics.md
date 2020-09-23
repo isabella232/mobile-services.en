@@ -2,7 +2,7 @@
 description: null
 seo-description: null
 seo-title: Analytics
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Analytics
 topic: Developer and implementation
 uuid: fa0ef6c4-c04d-4695-9eb4-ada4e9920e6c

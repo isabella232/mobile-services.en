@@ -3,7 +3,7 @@ description: You can route users to a destination depending on whether they have
 keywords: mobile
 seo-description: You can route users to a destination depending on whether they have the app installed (an app deep link) or not installed (to a website or an app store).
 seo-title: Interstitials
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Interstitials
 topic: Metrics
 uuid: 7dce8ab2-2a5d-4384-ac1e-e31dfaa33654

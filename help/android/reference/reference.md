@@ -2,7 +2,7 @@
 description: This reference material helps you use the Android SDK for Experience Cloud Solutions.
 seo-description: This reference material helps you use the Android SDK for Experience Cloud Solutions.
 seo-title: Android SDK reference overview
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Android SDK reference overview
 topic: Developer and implementation
 uuid: ce8f6dcb-0e2b-47eb-99f2-fbdb97079161

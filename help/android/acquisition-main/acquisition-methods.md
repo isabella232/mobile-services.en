@@ -3,7 +3,7 @@ description: The following Acquisition methods are provided by the Android libra
 keywords: android;library;mobile;sdk
 seo-description: The following Acquisition methods are provided by the Android library 
 seo-title: Acquisition Methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Acquisition Methods
 topic: Developer and implementation
 uuid: 22ec432f-e7ae-4e89-be07-26206bbeacf8

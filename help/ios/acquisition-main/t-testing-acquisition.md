@@ -2,7 +2,7 @@
 description: The following information helps you roundtrip an legacy acquisition campaign link that is based on a device fingerprint.
 seo-description: The following information helps you roundtrip an legacy acquisition campaign link that is based on a device fingerprint.
 seo-title: Testing Legacy Acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Testing Legacy Acquisition
 uuid: e0591f4a-e26b-4fe4-97c1-a6831a926fa5
 ---

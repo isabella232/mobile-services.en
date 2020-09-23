@@ -3,7 +3,7 @@ description: You can define and configure audience options for push messages, in
 keywords: mobile
 seo-description: You can define and configure audience options for push messages, including date range options, Analytics segments, and custom segments.
 seo-title: Audience  Define and Configure Audience Segments for Push Messages
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience  Define and Configure Audience Segments for Push Messages
 topic: Metrics
 uuid: efd410e7-3b6c-4cf4-a26f-b11688adc491

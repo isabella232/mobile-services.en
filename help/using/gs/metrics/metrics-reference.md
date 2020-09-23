@@ -3,7 +3,7 @@ description: Here is the reference information for the default mobile metrics an
 keywords: mobile
 seo-description: Here is the reference information for the default mobile metrics and dimensions.
 seo-title: Mobile Metrics and Dimensions Reference
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Mobile Metrics and Dimensions Reference
 topic: Metrics
 uuid: 96170ae7-8553-4f3e-ae01-65e5b664adf4

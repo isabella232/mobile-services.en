@@ -2,7 +2,7 @@
 description: The following tables list the metrics and dimensions that can be automatically measured by the mobile library after lifecycle is implemented.
 seo-description: The following tables list the metrics and dimensions that can be automatically measured by the mobile library after lifecycle is implemented.
 seo-title: Lifecycle Metrics
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Lifecycle Metrics
 topic: Developer and implementation
 uuid: b795e383-d59b-4a3c-9e14-ffe8fb58412c

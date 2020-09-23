@@ -3,7 +3,7 @@ description: You can configure the Adobe Experience Platform Identity Service op
 keywords: mobile
 seo-description: You can configure the Adobe Experience Platform Identity Service options on the Manage App Settings page while creating a new app or editing an existing app.
 seo-title: Configure SDK ID Service Options
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configure SDK ID Service Options
 topic: Metrics
 uuid: e69b57f7-153a-4a95-9c1e-c07fe29dea2d

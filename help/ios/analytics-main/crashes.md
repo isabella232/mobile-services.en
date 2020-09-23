@@ -2,7 +2,7 @@
 description: This information helps you understand how crashes are tracked and the best practices to handle false crashes.
 seo-description: This information helps you understand how crashes are tracked and the best practices to handle false crashes.
 seo-title: Track App crashes
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Track App Crashes
 topic: Developer and implementation
 uuid: 4f81988b-198a-4ba9-ad53-78af90e43856

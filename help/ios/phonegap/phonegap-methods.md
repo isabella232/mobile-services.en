@@ -3,7 +3,7 @@ description: You can use iOS PhoneGap Plug-in Methods to complete a variety of t
 keywords: phonegap
 seo-description: You can use iOS PhoneGap Plug-in Methods to complete a variety of tasks.
 seo-title: PhoneGap Plug-in Methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: PhoneGap Plug-in Methods
 topic: Developer and implementation
 uuid: bd830fe5-804a-4d0a-bbb6-99a6d8da6a03

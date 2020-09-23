@@ -3,7 +3,7 @@ description: Marketers can create, save, and edit link destinations, such as web
 keywords: mobile
 seo-description: Marketers can create, save, and edit link destinations, such as web, deep, or other links, that can be used while building trackable Marketing Links.
 seo-title: Destinations
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Destinations
 topic: Metrics
 uuid: 0e0e7d22-067c-4a59-abcb-a4826800944d

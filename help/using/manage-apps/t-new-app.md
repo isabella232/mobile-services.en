@@ -3,7 +3,7 @@ description: You can use this information to create a new app and configure its 
 keywords: mobile
 seo-description: You can use this information to create a new app and configure its key metrics;configure the SDK options for Adobe Analytics and Adobe Audience Manager;configure acquisition and ID service options;and download the configuration file, SDKs, and developer and tester tools.
 seo-title: Add a New App
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Add a New App
 topic: Metrics
 uuid: 706b5e4d-1318-4a9e-8c69-ffabf51fa02c

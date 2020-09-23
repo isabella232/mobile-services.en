@@ -2,7 +2,7 @@
 description: Release notes and known issues for Windows 8.1 Universal App Store SDK 4.x for Experience Cloud Solutions.
 seo-description: Release notes and known issues for Windows 8.1 Universal App Store SDK 4.x for Experience Cloud Solutions.
 seo-title: Release notes
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Release notes
 topic: Developer and implementation
 uuid: 45634319-7949-4e24-b193-4f876af97a69

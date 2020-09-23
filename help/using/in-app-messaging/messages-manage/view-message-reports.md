@@ -3,7 +3,7 @@ description: You can view message reports for in-app and push messages.
 keywords: mobile
 seo-description: You can view message reports for in-app and push messages.
 seo-title: View message reports
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: View message reports
 topic: Metrics
 uuid: 0ac73a81-388f-4dfd-84d5-21b8db4b8c83

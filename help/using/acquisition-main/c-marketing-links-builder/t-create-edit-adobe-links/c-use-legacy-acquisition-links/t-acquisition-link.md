@@ -3,7 +3,7 @@ description: You can create app store links that let you download applications d
 keywords: mobile
 seo-description: You can create app store links that let you download applications directly from the Apple App Store and Google Play. The links you create let you attribute your success events to the downloads.
 seo-title: Create an Acquisition Link
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Create an Acquisition Link
 topic: Metrics
 uuid: bb603013-fca9-44a2-820a-59e1c85d9444

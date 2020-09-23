@@ -3,7 +3,7 @@ description: The Users and Sessions report displays metrics for unique visitors 
 keywords: mobile
 seo-description: The Users and Sessions report displays metrics for unique visitors during the selected time frame.
 seo-title: Users and Sessions report
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Users and Sessions report
 topic: Reports,Metrics
 uuid: 6d70d7f6-de81-4307-a4f3-14f18fc3c9b3

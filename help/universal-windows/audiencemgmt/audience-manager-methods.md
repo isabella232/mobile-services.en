@@ -2,7 +2,7 @@
 description: List of Audience Manager methods provided by the Universal Windows Platform library.
 seo-description: List of Audience Manager methods provided by the Universal Windows Platform library.
 seo-title: Audience Manager methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience Manager methods
 topic: Developer and implementation
 uuid: efbe8f33-7f53-40a6-b7aa-a36ac718c047

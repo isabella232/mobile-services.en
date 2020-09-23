@@ -2,7 +2,7 @@
 description: Here is the list of Adobe Target methods that are provided by the iOS library.
 seo-description: Here is the list of Adobe Target methods that are provided by the iOS library.
 seo-title: iOS Target Methods for Adobe Mobile Services
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Target Methods for iOS
 topic: Developer and implementation
 uuid: 692bcda1-02ba-4902-bd65-15888adf1952

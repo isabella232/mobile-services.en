@@ -3,7 +3,7 @@ description: Information to help you implement Lifecycle metrics for Android. Li
 keywords: Xamarin
 seo-description: Information to help you implement Lifecycle metrics for Android. Lifecycle metrics are automatically collected for iOS.
 seo-title: Implement lifecycle
-solution: Marketing Cloud,Developer
+solution: Experience Cloud
 title: Implement lifecycle
 uuid: 6dccc12e-8b57-4231-9c74-d47bc0ac93ba
 ---

@@ -2,7 +2,7 @@
 description: The iOS Adobe Mobile SDK can be seamlessly integrated in a Swift project by using the Mix and Match feature in the iOS Developer Library.
 seo-description: The iOS Adobe Mobile SDK can be seamlessly integrated in a Swift project by using the Mix and Match feature in the iOS Developer Library.
 seo-title: Swift Integration
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Swift Integration
 topic: Developer and implementation
 uuid: 5fb77b57-cbf9-4bcf-8b41-65a933bf9336

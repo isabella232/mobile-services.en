@@ -2,7 +2,7 @@
 description: You can deliver in-app messages that are triggered from any analytics data or event. After the implementation, messages are dynamically delivered to the app and do not require a code update.
 seo-description: You can deliver in-app messages that are triggered from any analytics data or event. After the implementation, messages are dynamically delivered to the app and do not require a code update.
 seo-title: In-App Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: In-App Messaging
 topic: Developer and implementation
 uuid: 351ee3d2-80b9-4f2d-9696-21f274d89f5a

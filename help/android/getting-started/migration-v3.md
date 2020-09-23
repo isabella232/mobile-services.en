@@ -3,7 +3,7 @@ description: This information helps you migrate from the 3.x or 2.x version of t
 keywords: android;library;mobile;sdk
 seo-description: This information helps you migrate from the 3.x or 2.x version of the Android library to version 4.x.
 seo-title: Migrating to the Android 4.x Library
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Migrating to the Android 4.x Library
 topic: Developer and implementation
 uuid: 906e83bb-2faf-4aa2-ac9b-3fba6b833c7e

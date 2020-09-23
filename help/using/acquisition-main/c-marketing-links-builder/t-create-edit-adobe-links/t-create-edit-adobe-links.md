@@ -3,7 +3,7 @@ description: You can create or edit Marketing Links to provide deep linking into
 keywords: mobile
 seo-description: You can create or edit Marketing Links to provide deep linking into your mobile app or your website.
 seo-title: Create or Edit Marketing Links
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Create or Edit Marketing Links
 topic: Metrics
 uuid: 305a8265-38de-4d19-8c79-b3912f5aae7c

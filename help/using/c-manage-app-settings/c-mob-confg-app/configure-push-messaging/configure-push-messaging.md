@@ -3,7 +3,7 @@ description: You can use this information to help you configure the Push Service
 keywords: mobile
 seo-description: You can use this information to help you configure the Push Services options on the Manage App Settings page while creating a new app or editing an existing app.
 seo-title: Configure Push Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configure Push Messaging
 topic: Metrics
 uuid: 6763858d-6046-4d36-87c0-cf3600a44fb1

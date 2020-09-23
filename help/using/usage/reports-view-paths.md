@@ -3,7 +3,7 @@ description: The View Paths report, which is based on path analysis, displays a 
 keywords: mobile
 seo-description: The View Paths report, which is based on path analysis, displays a pathing chart that represents the paths that were taken between states in the app.
 seo-title: View Paths report
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: View Paths report
 topic: Reports,Metrics
 uuid: bc73edce-0cc0-4349-9a48-e0a40cbe1b67

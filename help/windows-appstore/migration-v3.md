@@ -2,7 +2,7 @@
 description: This section describes how to migrate from the 3.x version of a previous Windows mobile SDK to the Windows 8.1 Universal App Store 4.x SDK for Experience Cloud Solutions.
 seo-description: This section describes how to migrate from the 3.x version of a previous Windows mobile SDK to the Windows 8.1 Universal App Store 4.x SDK for Experience Cloud Solutions.
 seo-title: Migrate to the 4.x SDKs
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Migrate to the 4.x SDKs
 topic: Developer and implementation
 uuid: e0fe3b7b-cda5-4a91-834c-2c7e17a501a3

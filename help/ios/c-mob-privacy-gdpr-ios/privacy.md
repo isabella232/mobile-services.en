@@ -2,7 +2,7 @@
 description: This information helps you with a GDPR data deletion request.
 seo-description: This information helps you with a GDPR data deletion request.
 seo-title: Setting the User's Opt Status
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Setting the User's Opt Status
 topic: Developer and implementation
 uuid: 44a09a25-93c6-4e1a-b69e-710018e8b6c3

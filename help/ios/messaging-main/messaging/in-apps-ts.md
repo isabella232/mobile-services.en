@@ -3,7 +3,7 @@ description: This information helps you troubleshoot in-app messaging.
 keywords: mobile
 seo-description: This information helps you troubleshoot in-app messaging.
 seo-title: Troubleshooting In-App Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Troubleshooting In-App Messaging
 topic: Metrics
 uuid: 58533aa3-2eb2-4597-8525-77e4e5975e56

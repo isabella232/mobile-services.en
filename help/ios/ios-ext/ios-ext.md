@@ -2,7 +2,7 @@
 description: You can use the iOS extension helps you collect usage data from your Apple Watch Apps (WatchOS 1), Today Widgets, Photo Editing widgets, and other iOS extension apps.
 seo-description: You can use the iOS extension helps you collect usage data from your Apple Watch Apps (WatchOS 1), Today Widgets, Photo Editing widgets, and other iOS extension apps.
 seo-title: iOS Extension Implementation
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: iOS Extension Implementation
 topic: Developer and implementation
 uuid: 8afc03fe-403e-4643-ada1-30e403ede238

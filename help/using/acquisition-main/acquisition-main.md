@@ -3,7 +3,7 @@ description: Marketers can create tracking links to promote and drive traffic to
 keywords: mobile
 seo-description: Marketers can create tracking links to promote and drive traffic to their apps. These tracking links can drive users to app stores, app deep links, and interstitials, which can be correlated to in-app behavior. A marketer can create one link to route users to iOS, Android, or other platforms as appropriate.
 seo-title: Acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Acquisition
 topic: Metrics
 uuid: 987146e4-2cca-46e7-88aa-74b62d9f1dc5

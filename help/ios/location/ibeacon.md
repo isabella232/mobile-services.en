@@ -2,7 +2,7 @@
 description: iBeacon tracking allows you to measure and target micro locations using iBeacon and Low Energy Bluetooth.
 seo-description: iBeacon tracking allows you to measure and target micro locations using iBeacon and Low Energy Bluetooth.
 seo-title: iBeacon tracking
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: iBeacon tracking
 topic: Developer and implementation
 uuid: 390883db-027e-4d12-8a16-86d514579db1

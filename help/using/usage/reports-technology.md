@@ -3,7 +3,7 @@ description: The Technology report allows you to see the different device types,
 keywords: mobile
 seo-description: The Technology report allows you to see the different device types, operating systems, operating system versions, and mobile carriers on which your app is being used.
 seo-title: Technology report
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Technology report
 topic: Reports,Metrics
 uuid: 4b7322c4-8920-43cd-bb72-5a5bd515ae84

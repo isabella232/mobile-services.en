@@ -2,7 +2,7 @@
 description: This information helps you migrate from the versions 3.x or 2.x of the iOS library to version 4.x.
 seo-description: This information helps you migrate from the versions 3.x or 2.x of the iOS library to version 4.x.
 seo-title: Migrating to the 4.x iOS library
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Migrating to the 4.x iOS library
 topic: Developer and implementation
 uuid: 5668972b-f355-4e03-9df0-8c82ddf6809b

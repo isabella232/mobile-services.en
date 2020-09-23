@@ -3,7 +3,7 @@ description: In the Adobe Mobile Services UI, you can schedule a push message to
 keywords: mobile
 seo-description: In the Adobe Mobile Services UI, you can schedule a push message to be delivered immediately, to be delivered later, and as a recurring event. These events can be scheduled on a daily, weekly, or monthly basis.
 seo-title: Schedule  Push Message
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Schedule  Push Message
 topic: Metrics
 uuid: 6810e27a-016f-4286-8fe2-9972d85fa326

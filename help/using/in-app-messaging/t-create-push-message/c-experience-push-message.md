@@ -3,7 +3,7 @@ description: You can configure experience options for push messages and rich pus
 keywords: mobile
 seo-description: You can configure experience options for push messages and rich push messages, including name, message text, and destination options. You can also configure advanced options, including payload options and custom options for iOS devices.
 seo-title: Experience  Push Message
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Experience  Push Message
 topic: Metrics
 uuid: 1a8baf3e-9fea-452c-b0fc-4ba8ac270861

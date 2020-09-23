@@ -3,7 +3,7 @@ description: Here is some information about measuring video on Android by the vi
 keywords: android;library;mobile;sdk
 seo-description: Here is some information about measuring video on Android by the video measurement solution.
 seo-title: Video Analytics
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Video Analytics
 topic: Developer and implementation
 uuid: a137cc27-dc28-48c0-b08e-2ca17d2c7e1d

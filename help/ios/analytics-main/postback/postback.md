@@ -2,7 +2,7 @@
 description: Postbacks allow you to send data that is collected by the SDK to a third-party server. By leveraging the same triggers and traits that you use to display an in-app message, you can configure the SDK to send customized data to a third-party destination.
 seo-description: Postbacks allow you to send data that is collected by the SDK to a third-party server. By leveraging the same triggers and traits that you use to display an in-app message, you can configure the SDK to send customized data to a third-party destination.
 seo-title: Postbacks
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Postbacks overview
 uuid: 25e2a5fb-1203-40dd-96cd-b23e0f23376d
 ---

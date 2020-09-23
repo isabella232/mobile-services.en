@@ -2,7 +2,7 @@
 description: An example of the products variable with Merchandising eVars and product-specific events.
 seo-description: An example of the products variable with Merchandising eVars and product-specific events.
 seo-title: Products Variable with Merchandising eVars and Product-Specific Events
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Products Variable with Merchandising eVars and Product-Specific Events
 topic: Developer and implementation
 uuid: 94e882e4-b19d-4c48-9dfb-331465490347

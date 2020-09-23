@@ -3,7 +3,7 @@ description: This information helps you understand and customize the built-in re
 keywords: mobile
 seo-description: This information helps you understand and customize the built-in reports.
 seo-title: Customize Reports
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Customize Reports
 topic: Reports,Metrics
 uuid: 39ba9af3-eaee-44b9-bea4-c8f43a0d2a6c

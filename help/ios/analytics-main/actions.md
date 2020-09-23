@@ -2,7 +2,7 @@
 description: Actions are the events that occur in your app that you want to measure. Each action has one or more corresponding metrics that are incremented each time the event occurs. For example, you might track a new subscription, each time an article is viewed or each time a level is completed. The corresponding metrics for these events are configured as subscriptions, articles read, and levels completed.
 seo-description: Actions are the events that occur in your app that you want to measure. Each action has one or more corresponding metrics that are incremented each time the event occurs. For example, you might track a new subscription, each time an article is viewed or each time a level is completed. The corresponding metrics for these events are configured as subscriptions, articles read, and levels completed.
 seo-title: Track App Actions
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Track App Actions
 topic: Developer and implementation
 uuid: 62017be1-5395-4d16-bde3-4c40a2c012d4

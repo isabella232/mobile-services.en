@@ -3,7 +3,7 @@ description: You can configure audience options for in-app messages, including v
 keywords: mobile
 seo-description: You can configure audience options for in-app messages, including view, trigger, and trait options.
 seo-title: Audience  In-App Message
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience  In-App Message
 topic: Metrics
 uuid: 6c815d4c-7626-4cf4-9158-3f059c79317a

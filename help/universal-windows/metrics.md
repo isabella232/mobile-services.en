@@ -3,7 +3,7 @@ description: Lists the metrics and dimensions that can be measured automatically
 keywords: android;library;mobile;sdk
 seo-description: Lists the metrics and dimensions that can be measured automatically by the mobile library.
 seo-title: Lifecycle metrics
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Lifecycle metrics
 topic: Developer and implementation
 uuid: f958c3ef-1d79-4b30-8966-ef74bd48a5d6

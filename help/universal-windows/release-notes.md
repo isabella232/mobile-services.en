@@ -2,7 +2,7 @@
 description: Release notes and known issues for Universal Windows Platform SDK 4.x for Experience Cloud Solutions.
 seo-description: Release notes and known issues for Universal Windows Platform SDK 4.x for Experience Cloud Solutions.
 seo-title: Release notes
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Release notes
 topic: Developer and implementation
 uuid: 9c164e5c-ce2c-4eda-bba6-71324e4954fa

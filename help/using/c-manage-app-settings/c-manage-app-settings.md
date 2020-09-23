@@ -3,7 +3,7 @@ description: Managing your apps involves configuring an App and managing a varie
 keywords: mobile
 seo-description: Managing your apps involves configuring an App and managing a variety of variables and metrics.
 seo-title: Manage App Settings
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Manage App Settings
 topic: Metrics
 uuid: 2ca93f92-f812-434c-add0-5bdf1442eb20

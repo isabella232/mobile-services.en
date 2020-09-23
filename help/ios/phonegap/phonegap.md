@@ -3,7 +3,7 @@ description: This plug-in lets you send iOS AppMeasurement calls from your Phone
 keywords: phonegap
 seo-description: This plug-in lets you send iOS AppMeasurement calls from your PhoneGap project.
 seo-title: PhoneGap Plug-in
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: PhoneGap Plug-in
 topic: Developer and implementation
 uuid: f88bcf10-1f9e-4c97-b348-40db797c9923

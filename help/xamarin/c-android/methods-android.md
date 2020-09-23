@@ -3,7 +3,7 @@ description: Android methods for Xamarin components for Experience Cloud solutio
 keywords: Xamarin
 seo-description: Android methods for Xamarin components for Experience Cloud solutions 4.x SDK.
 seo-title: Android methods
-solution: Marketing Cloud,Developer
+solution: Experience Cloud
 title: Android methods
 uuid: 860af1c4-f57e-4bcb-8308-4e316da9a27b
 ---

@@ -3,7 +3,7 @@ description: You must complete these tasks before configuring Push Messaging in 
 keywords: mobile
 seo-description: You must complete these tasks before configuring Push Messaging in applications.
 seo-title: Prerequisites to Enable Push Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Prerequisites to Enable Push Messaging
 topic: Metrics
 uuid: 194e6e07-b794-4152-a838-a4125c3292d4

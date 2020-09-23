@@ -3,7 +3,7 @@ description: Android widgets can be tracked by using the same methods as your ap
 keywords: android;library;mobile;sdk
 seo-description: Android widgets can be tracked by using the same methods as your app. Widgets share the application context with your app, so hit order and visitor identification is preserved.
 seo-title: Android widgets
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Android widgets
 topic: Developer and implementation
 uuid: 1a3718ff-967b-4c8e-ae0b-ba15bddbda0a

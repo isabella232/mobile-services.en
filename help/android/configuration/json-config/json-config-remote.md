@@ -2,7 +2,7 @@
 description: You can load a different ADBMobile JSON config file when the application starts.
 seo-description: You can load a different ADBMobile JSON config file when the application starts.
 seo-title: Override the ADBMobile JSON Config Path
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Override the ADBMobile JSON Config Path
 topic: Developer and implementation
 uuid: 6872a5d7-0c5a-4fdc-b7bf-ad1534763a6a

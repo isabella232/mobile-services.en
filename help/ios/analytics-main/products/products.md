@@ -2,7 +2,7 @@
 description: The products variable cannot be set by using processing rules. In the iOS 4.x SDK, you must use a special syntax in the context data parameter to set products directly on the server call.
 seo-description: The products variable cannot be set by using processing rules. In the iOS 4.x SDK, you must use a special syntax in the context data parameter to set products directly on the server call.
 seo-title: Products Variable
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Products Variable
 topic: Developer and implementation
 uuid: 6ece4d27-ef86-435c-a6f7-bd76be1c95ca

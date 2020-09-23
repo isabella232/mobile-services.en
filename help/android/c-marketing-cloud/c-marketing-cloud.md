@@ -3,7 +3,7 @@ description: This information helps you use the Android SDK with the Adobe Exper
 keywords: android;library;mobile;sdk
 seo-description: This information helps you use the Android SDK with the Adobe Experience Cloud.
 seo-title: Experience Cloud overivew
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Experience Cloud overview
 topic: Developer and implementation
 uuid: dbf6e019-8707-42e7-97b8-e18a8a7d5e2c

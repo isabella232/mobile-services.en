@@ -3,7 +3,7 @@ description: The following information helps you troubleshoot Acquisition testin
 keywords: android;Acquisition;testing
 seo-description: The following information helps you troubleshoot Acquisition testing issues.
 seo-title: Troubleshooting Acquisition testing
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Troubleshooting Acquisition testing
 ---
 

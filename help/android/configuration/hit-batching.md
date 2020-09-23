@@ -3,7 +3,7 @@ description: Hit batching allows applications to hold hits from being sent until
 keywords: android;library;mobile;sdk
 seo-description: Hit batching allows applications to hold hits from being sent until the number of hits in the queue have exceeded the configured limit.
 seo-title: Hit Batching
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Hit Batching
 topic: Developer and implementation
 uuid: ada35be3-242b-4b2b-a828-9bf998dd58b5

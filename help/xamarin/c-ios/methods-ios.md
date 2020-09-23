@@ -3,7 +3,7 @@ description: iOS methods for Xamarin components for Experience Cloud solutions 4
 keywords: Xamarin
 seo-description: iOS methods for Xamarin components for Experience Cloud solutions 4.x SDK.
 seo-title: iOS methods
-solution: Marketing Cloud,Developer
+solution: Experience Cloud
 title: iOS methods
 uuid: d6a056db-80c1-44d0-970f-c961ad01b0bc
 ---

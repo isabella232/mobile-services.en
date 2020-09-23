@@ -3,7 +3,7 @@ description: The Retention report (formerly known as First Launch Cohorts) is a 
 keywords: mobile
 seo-description: The Retention report (formerly known as First Launch Cohorts) is a cohort report that displays how many unique users launched your app for the first time and then launched the app again at least once in the subsequent months.
 seo-title: Retention report
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Retention report
 topic: Reports,Metrics
 uuid: e7639e7f-c9ed-4b19-9ac5-b36774ea9dd6

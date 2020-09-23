@@ -2,7 +2,7 @@
 description: Geo-location helps you measure location data by using latitude and longitude and predefined points of interest in your Android apps.
 seo-description: Geo-location helps you measure location data by using latitude and longitude and predefined points of interest in your Android apps.
 seo-title: Geo-Location and points of interest
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Geo-Location and points of interest
 topic: Developer and implementation
 uuid: b8209370-cbc4-40f9-97d8-017e2d74a377

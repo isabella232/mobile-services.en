@@ -3,7 +3,7 @@ description: This information helps you send signals and retrieve visitor segmen
 keywords: android;library;mobile;sdk
 seo-description: This information helps you send signals and retrieve visitor segments from Audience Manager.
 seo-title: Audience Manager overview
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience Manager overview
 topic: Developer and implementation
 uuid: cfa4106d-13c1-45ba-bee6-6f992aaf9919

@@ -3,7 +3,7 @@ description: This topic describes how to get started using Xamarin components fo
 keywords: Xamarin
 seo-description: This topic describes how to get started using Xamarin components for Mobile solutions 4.x SDK.
 seo-title: Xamarin components for Experience Cloud Solutions 4.x SDK
-solution: Marketing Cloud,Developer
+solution: Experience Cloud
 title: Xamarin components for Experience Cloud Solutions 4.x SDK
 uuid: e7a48107-bd0e-47d6-b49c-dfdae189ac37
 ---

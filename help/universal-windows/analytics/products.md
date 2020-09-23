@@ -2,7 +2,7 @@
 description: The products variable cannot be set using processing rules. In the mobile SDK, you must use a special syntax within the context data parameter to set products directly on the server call.
 seo-description: The products variable cannot be set using processing rules. In the mobile SDK, you must use a special syntax within the context data parameter to set products directly on the server call.
 seo-title: Products variable
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Products variable
 topic: Developer and implementation
 uuid: 607983d6-48ac-4274-bfc8-b1ca4e5dad1b

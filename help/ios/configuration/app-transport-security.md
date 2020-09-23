@@ -2,7 +2,7 @@
 description: This information helps you work with App Transport Security (ATS), which is a new set of security requirements for iOS 9.
 seo-description: This information helps you work with App Transport Security (ATS), which is a new set of security requirements for iOS 9.
 seo-title: App Transport Security
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: App Transport Security
 topic: Developer and implementation
 uuid: e9ee13cf-9802-492e-8b11-95f028e34e61

@@ -2,7 +2,7 @@
 description: Starting in Android SDK version 4.5, a new Android extension was added that allows you to collect data from your Android Wearable app.
 seo-description: Starting in Android SDK version 4.5, a new Android extension was added that allows you to collect data from your Android Wearable app.
 seo-title: Android Wearables  Getting Started
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Android Wearables  Getting Started
 topic: Developer and implementation
 uuid: bfe5d41e-b17c-4634-80ac-7a38671ecb81

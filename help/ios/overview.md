@@ -2,7 +2,7 @@
 description: iOS SDK 4.x for Experience Cloud Solutions lets you measure native Apple iPhone and iPad applications, deliver targeted content within your apps, and leverage and collect audience data through Audience Manager.
 seo-description: iOS SDK 4.x for Experience Cloud Solutions lets you measure native Apple iPhone and iPad applications, deliver targeted content within your apps, and leverage and collect audience data through Audience Manager.
 seo-title: iOS SDK 4.x for Experience Cloud Solutions
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: iOS SDK 4.x for Experience Cloud Solutions
 topic: Developer and implementation
 uuid: 8b374cee-1432-460b-aac2-70623dd80a04

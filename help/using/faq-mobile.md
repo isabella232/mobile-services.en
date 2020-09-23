@@ -3,7 +3,7 @@ description: Frequently asked questions and answers for Adobe Mobile Services an
 keywords: mobile
 seo-description: Frequently asked questions and answers for Adobe Mobile Services and a general description of features.
 seo-title: Frequently Asked Questions
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Frequently Asked Questions
 topic: Metrics
 uuid: 62a9241c-2ada-483a-a594-b023916cb0b6

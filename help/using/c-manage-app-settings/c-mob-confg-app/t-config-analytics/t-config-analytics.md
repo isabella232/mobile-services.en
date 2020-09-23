@@ -3,7 +3,7 @@ description: You can configure the SDK Analytics options on the Manage App Setti
 keywords: mobile
 seo-description: You can configure the SDK Analytics options on the Manage App Settings page while creating a new app or editing an existing app.
 seo-title: Configure SDK Analytics Options
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configure SDK Analytics Options
 topic: Metrics
 uuid: fd3a21d2-6560-4e96-92fe-b99caac5e834

@@ -2,7 +2,7 @@
 description: This information helps you use acquisition tracking links in your in your iOS apps.
 seo-description: This information helps you use acquisition tracking links in your in your iOS apps.
 seo-title: Acquisition overview
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Acquisition overview
 topic: Developer and implementation
 uuid: e22d2785-58f1-4841-9163-912c5e0f5d61

@@ -3,7 +3,7 @@ description: This information helps you customize the built-in reports by adding
 keywords: mobile
 seo-description: This information helps you customize the built-in reports by adding additional filters (segments).
 seo-title: Add Filters to Reports
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Add Filters to Reports
 topic: Reports,Metrics
 uuid: 19c395cc-2e07-4588-825b-f2f8b10a87c1

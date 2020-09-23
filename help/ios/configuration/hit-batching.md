@@ -2,7 +2,7 @@
 description: Hit batching allows applications that have offline tracking enabled to hold hits from being sent until the number of hits in the queue pass a configurable limit.
 seo-description: Hit batching allows applications that have offline tracking enabled to hold hits from being sent until the number of hits in the queue pass a configurable limit.
 seo-title: Hit batching
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Hit batching
 topic: Developer and implementation
 uuid: 3dda7372-0695-4cb7-b779-6abca2d6e0d9

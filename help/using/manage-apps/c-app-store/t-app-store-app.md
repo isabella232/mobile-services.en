@@ -3,7 +3,7 @@ description: You can add an app from the Apple App Store or from Google Play.
 keywords: mobile
 seo-description: You can add an app from the Apple App Store or from Google Play.
 seo-title: Add an App from an App Store
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Add an App from an App Store
 topic: Metrics
 uuid: 94c8a924-5156-4742-8b5b-88d9ea13bfed

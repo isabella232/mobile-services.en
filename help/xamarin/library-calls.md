@@ -3,7 +3,7 @@ description: Information to help you make calls to the plugin from your scripts.
 keywords: Xamarin
 seo-description: Information to help you make calls to the plugin from your scripts.
 seo-title: Making calls to the library
-solution: Marketing Cloud,Developer
+solution: Experience Cloud
 title: Making calls to the library
 uuid: a480201a-4090-4662-8dd8-56f62144cd93
 ---

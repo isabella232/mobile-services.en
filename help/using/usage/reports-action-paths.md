@@ -3,7 +3,7 @@ description: The Action Paths report is based on path analysis and displays a pa
 keywords: mobile
 seo-description: The Action Paths report is based on path analysis and displays a pathing chart that represents the paths that are taken from one state to another state in the app.
 seo-title: Action Paths report
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Action Paths report
 topic: Reports,Metrics
 uuid: a21e5d9e-fd57-4178-9d64-87181b7f988b

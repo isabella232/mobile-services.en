@@ -3,7 +3,7 @@ description: This plug-in allows you to send Android AppMeasurement calls from y
 keywords: android;library;mobile;sdk
 seo-description: This plug-in allows you to send Android AppMeasurement calls from your PhoneGap project.
 seo-title: PhoneGap plug-in overview
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: PhoneGap plug-in overview
 topic: Developer and implementation
 uuid: c5c32357-d8df-458a-b0e8-e0c56040241d

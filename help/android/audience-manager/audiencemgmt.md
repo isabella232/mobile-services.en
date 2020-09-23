@@ -3,7 +3,7 @@ description: You can send signals and retrieve visitor segments from audience ma
 keywords: android;library;mobile;sdk
 seo-description: You can send signals and retrieve visitor segments from audience management.
 seo-title: Audience Manager configuration
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Audience Manager configuration
 topic: Developer and implementation
 uuid: f68d5b2e-fa2c-4db6-98ad-d1855a2c45ac

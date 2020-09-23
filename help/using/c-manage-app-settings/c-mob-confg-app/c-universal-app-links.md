@@ -3,7 +3,7 @@ description: Universal Links (iOS) and App Links (Android) allow you to connect 
 keywords: mobile
 seo-description: Universal Links (iOS) and App Links (Android) allow you to connect to deep links in your iOS or Android apps.
 seo-title: Apple Universal Links and Android App Links
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Apple Universal Links and Android App Links
 topic: Metrics
 uuid: 8d6441dc-4307-4454-95ea-d77ec796f918

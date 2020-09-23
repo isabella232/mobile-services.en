@@ -3,7 +3,7 @@ description: You can deliver targeted content in Android applications.
 keywords: android;library;mobile;sdk
 seo-description: You can deliver targeted content in Android applications.
 seo-title: Target configuration
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Target configuration
 topic: Developer and implementation
 uuid: 09fe2c9c-7b60-49c3-bb9d-36a30ce7c350

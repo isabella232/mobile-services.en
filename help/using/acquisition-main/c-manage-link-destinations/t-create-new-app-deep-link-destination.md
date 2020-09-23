@@ -3,7 +3,7 @@ description: You can create a new link destination that directs users to a web o
 keywords: mobile
 seo-description: You can create a new link destination that directs users to a web or a deep link in your app.
 seo-title: Create New Link Destination
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Create New Link Destination
 topic: Metrics
 uuid: 390e3dea-0221-4f97-980d-a90ca9f162fa

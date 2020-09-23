@@ -3,7 +3,7 @@ description: You can create an in-app message for delivery to mobile users. When
 keywords: mobile
 seo-description: You can create an in-app message for delivery to mobile users. When creating the message, you configure the message type, audience, experience, and schedule.
 seo-title: Create an in-app message
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Create an in-app message
 topic: Metrics
 uuid: 15b52713-9ffc-4df9-b21a-6b0576a96a54

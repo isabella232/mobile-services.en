@@ -3,7 +3,7 @@ description: This information helps you implement the Android library and collec
 keywords: android;library;mobile;sdk
 seo-description: This information helps you implement the Android library and collect lifecycle metrics, such as launches, upgrades, sessions, engaged users, and so on.
 seo-title: Core Implementation and Lifecycle
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Core Implementation and Lifecycle
 topic: Developer and implementation
 uuid: af4d11ac-8245-46a0-9b3a-4a0a29cfbbb2

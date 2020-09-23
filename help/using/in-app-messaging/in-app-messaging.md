@@ -3,7 +3,7 @@ description: Create, manage, and report on in-app and push messages.
 keywords: mobile
 seo-description: Create, manage, and report on in-app and push messages.
 seo-title: Messaging
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Messaging
 topic: Metrics
 uuid: e32d3e35-2d09-4ddf-8919-75dc895abcb3

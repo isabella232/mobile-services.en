@@ -2,7 +2,7 @@
 description: Here is some information to help you configure the Android extension, which allows you to collect data from your Android Wearable app.
 seo-description: Here is some information to help you configure the Android extension, which allows you to collect data from your Android Wearable app.
 seo-title: Android Wearables  Additional Notes
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Android Wearables  Additional Notes
 topic: Developer and implementation
 uuid: 3bcf352b-4d46-4ab3-81ec-c27e86fe9be3

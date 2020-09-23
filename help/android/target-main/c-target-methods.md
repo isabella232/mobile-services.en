@@ -3,7 +3,7 @@ description: Here is the list of Adobe Target methods that are provided by the A
 keywords: android;library;mobile;sdk
 seo-description: Here is the list of Adobe Target methods that are provided by the Android library.
 seo-title: Target methods for Android
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Target methods for Android
 topic: Developer and implementation
 uuid: 8e9808b2-ba80-4646-ba05-8e62d4fde065

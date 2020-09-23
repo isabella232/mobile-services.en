@@ -2,7 +2,7 @@
 description: States are the different screens or views in your application. Each time a new state is displayed in your application, for example, when a user navigates from the home page to the news feed, a track state call should be sent. In iOS, a state is typically tracked in the viewDidLoad method of each view.
 seo-description: States are the different screens or views in your application. Each time a new state is displayed in your application, for example, when a user navigates from the home page to the news feed, a track state call should be sent. In iOS, a state is typically tracked in the viewDidLoad method of each view.
 seo-title: Track App States
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Track App States
 topic: Developer and implementation
 uuid: 12cca4eb-1f15-4cec-a58f-76b69eaff99d

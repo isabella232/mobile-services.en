@@ -3,7 +3,7 @@ description: This information helps you customize the built-in reports by adding
 keywords: mobile
 seo-description: This information helps you customize the built-in reports by adding additional series (metrics) or apps in different report suites to compare data.
 seo-title: Add Series (Metrics) to Reports
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Add Series (Metrics) to Reports
 topic: Reports,Metrics
 uuid: 84fdfb1f-70e6-4c02-9b3b-526e9c924f74

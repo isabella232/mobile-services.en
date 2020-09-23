@@ -3,7 +3,7 @@ description: You can measure different metrics by using Adobe Mobile and collect
 keywords: mobile
 seo-description: You can measure different metrics by using Adobe Mobile and collect the metrics that you want to track for your app.
 seo-title: Mobile Metrics
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Mobile Metrics
 topic: Metrics
 uuid: c4457f4a-9d1c-4fe9-ad4a-9eb2e37feab7

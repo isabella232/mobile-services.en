@@ -3,7 +3,7 @@ description: Android SDK 4.x for Experience Cloud Solutions allows you to measur
 keywords: android;library;mobile;sdk
 seo-description: Android SDK 4.x for Experience Cloud Solutions allows you to measure native Android applications, deliver targeted content in your app, and leverage and collect audience data through audience management.
 seo-title: Android SDK 4.x for Experience Cloud Solutions
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Android SDK 4.x for Experience Cloud Solutions
 topic: Developer and implementation
 uuid: 56f1ff41-0365-41dd-bdde-245c823dff07

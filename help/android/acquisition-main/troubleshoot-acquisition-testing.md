@@ -3,7 +3,7 @@ description: This topic provides information about how to troubleshoot issues yo
 keywords: android;library;mobile;sdk
 seo-description: This topic provides information about how to troubleshoot issues you might face during Acquisition testing.
 seo-title: Troubleshoot Acquisition testing
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Troubleshoot Acquisition testing
 topic: Developer and implementation
 ---

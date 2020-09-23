@@ -2,7 +2,7 @@
 description: Classes and methods provided by the Universal Windows Platform library.
 seo-description: Classes and methods provided by the Universal Windows Platform library.
 seo-title: SDK methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: SDK methods
 topic: Developer and implementation
 uuid: e3aa41d6-7bc0-4208-a662-12907c209a77

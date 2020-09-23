@@ -3,7 +3,7 @@ description: This information helps you roundtrip a version 3 acquisition campai
 keywords: android;library;mobile;sdk
 seo-description: This information helps you roundtrip a version 3 acquisition campaign link on an Android device.
 seo-title: Testing Version 3 Acquisition
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Testing Version 3 Acquisition
 topic: Developer and implementation
 uuid: 5e38b43d-389e-4412-99e5-3e6223b6ad28

@@ -2,7 +2,7 @@
 description: Geo-location helps you measure location data by using latitude and longitude and predefined points of interest in your iOS apps.
 seo-description: Geo-location helps you measure location data by using latitude and longitude and predefined points of interest in your iOS apps.
 seo-title: Geo-Location and points of interest
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Geo-Location and points of interest
 topic: Developer and implementation
 uuid: c800ec85-a33f-425d-b28f-bfe8bf229ae8

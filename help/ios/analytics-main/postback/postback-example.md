@@ -2,7 +2,7 @@
 description: Definition and source code examples for the Postbacks feature.
 seo-description: Definition and source code examples for the Postbacks feature.
 seo-title: Postback Example
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Postback Example
 topic: Developer and implementation
 uuid: 809c5646-7a80-40df-984b-0af89d854259

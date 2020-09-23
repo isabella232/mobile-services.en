@@ -3,7 +3,7 @@ description: Here is the list of methods that are provided by the Android librar
 keywords: android;library;mobile;sdk
 seo-description: Here is the list of methods that are provided by the Android library.
 seo-title: Configuration Methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configuration Methods
 topic: Developer and implementation
 uuid: 663aeb6c-1b97-4a3a-8c0e-dd4c2ec28c01

@@ -2,7 +2,7 @@
 description: The lifetime value allows you to measure and target on a lifetime value for each Android user. The value can be used to store lifetime purchases, ad views, video completes, social shares, photo uploads, and so on.
 seo-description: The lifetime value allows you to measure and target on a lifetime value for each Android user. The value can be used to store lifetime purchases, ad views, video completes, social shares, photo uploads, and so on.
 seo-title: Visitor Lifetime Value
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Visitor Lifetime Value
 topic: Developer and implementation
 uuid: ba0308de-282e-46f9-a14c-19fb6d5c363e

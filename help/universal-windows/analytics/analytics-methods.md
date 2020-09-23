@@ -2,7 +2,7 @@
 description: Information to help you use the Universal Windows Platform SDK with Adobe Analytics.
 seo-description: Information to help you use the Universal Windows Platform SDK with Adobe Analytics.
 seo-title: Analytics methods
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Analytics methods
 topic: Developer and implementation
 uuid: cc299bb5-ec61-49bf-869a-f3c3bc83359f

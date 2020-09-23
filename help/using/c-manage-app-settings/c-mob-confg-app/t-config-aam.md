@@ -3,7 +3,7 @@ description: You can configure the SDK Audience Manager options on the Manage Ap
 keywords: mobile
 seo-description: You can configure the SDK Audience Manager options on the Manage App Settings page while creating a new app or editing an existing app.
 seo-title: Configure Audience Manager options
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Configure Audience Manager options
 topic: Metrics
 uuid: 471270ca-cee5-401e-aac1-e48146ee8399

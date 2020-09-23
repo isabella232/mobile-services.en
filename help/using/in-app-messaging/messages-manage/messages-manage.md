@@ -3,7 +3,7 @@ description: View a list of your in-app and push messages with details about whe
 keywords: mobile
 seo-description: View a list of your in-app and push messages with details about when each message was last updated and whether the messages are live or deactivated.
 seo-title: Manage Messages
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Manage Messages
 topic: Metrics
 uuid: 4d934ede-0c68-4dd5-ba37-9caf727cc717

@@ -2,7 +2,7 @@
 description: Release notes and known issues for Android SDK 4.x for Experience Cloud Solutions.
 seo-description: Release notes and known issues for Android SDK 4.x for Experience Cloud Solutions.
 seo-title: Release Notes
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Release Notes
 topic: Developer and implementation
 uuid: 16bb4de8-a216-47a8-928c-0b1e1421adcf

@@ -3,7 +3,7 @@ description: The builder helps you build Marketing Links that can route users to
 keywords: mobile
 seo-description: The builder helps you build Marketing Links that can route users to app stores and app or web link destinations. Marketers can choose destinations based on rules, such as device type or operating system of the user’s device.
 seo-title: Marketing Links Builder
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Marketing Links Builder
 topic: Metrics
 uuid: 94906393-ffa5-47a6-89f6-1c812bad34af

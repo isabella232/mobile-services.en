@@ -3,7 +3,7 @@ description: You can sign in to Adobe Mobile Services by using a web browser.
 keywords: mobile;change password;log in;log out;login;logout;sign in;signin
 seo-description: You can sign in to Adobe Mobile Services by using a web browser.
 seo-title: Signing In
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Signing In
 topic: Metrics
 uuid: d6ea0ca1-3511-4133-9d41-21ea2d2f7b3a

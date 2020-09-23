@@ -2,7 +2,7 @@
 description: Complete these steps to configure a report suite to collect iOS app data.
 seo-description: Complete these steps to configure a report suite to collect iOS app data.
 seo-title: Before You Start
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Before You Start
 topic: Developer and implementation
 uuid: 04133f68-3618-41fd-8a13-aec5b6f04df6

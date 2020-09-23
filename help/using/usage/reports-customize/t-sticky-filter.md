@@ -3,7 +3,7 @@ description: Create a filter that spans different reports to see how a particula
 keywords: mobile
 seo-description: Create a filter that spans different reports to see how a particular segment is performing across all mobile reports. A sticky filter lets you define a filter that is applied to all non-pathing reports.
 seo-title: Add Sticky Filter
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Add Sticky Filter
 topic: Reports,Metrics
 uuid: f3935c8a-811d-4080-8468-b8850202dd1e

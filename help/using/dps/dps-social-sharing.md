@@ -3,7 +3,7 @@ description: The Social Sharing report displays a sunburst visualization for you
 keywords: mobile
 seo-description: The Social Sharing report displays a sunburst visualization for your existing data. This report is available to Digital Publishing Suites (DPS) customers only.
 seo-title: Social Sharing
-solution: Marketing Cloud,Analytics
+solution: Experience Cloud,Analytics
 title: Social Sharing
 topic: Metrics
 uuid: 900e58aa-c1d3-4590-af44-df67575214a4
